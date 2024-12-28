@@ -1,0 +1,1000 @@
+Country,Year,Disease Category,Prevalence Rate (%),Incidence Rate (%),Mortality Rate (%),Age Group,Gender,Population Affected,Healthcare Access (%),Treatment Type,Average Treatment Cost (USD),Recovery Rate (%),Improvement in 5 Years (%)
+Italy,2013,Respiratory,0.95,1.55,8.42,0-18,Male,471007,57.74,Medication,21064,91.82,2.16
+France,2002,Parasitic,12.46,8.63,8.75,61+,Male,634318,89.21,Surgery,47851,76.65,4.82
+Turkey,2015,Genetic,0.91,2.35,6.22,36-60,Male,154878,56.41,27834,Yes,98.55,5.81
+Indonesia,2011,Autoimmune,4.68,6.29,3.99,0-18,Other,446224,85.2,144,Yes,67.35,2.22
+Italy,2013,Genetic,0.83,13.59,7.01,61+,Male,472908,67,Medication,8908,50.06,6.93
+Saudi Arabia,2011,Bacterial,10.99,6.49,4.64,61+,Female,479234,98.41,Therapy,42671,93.17,9.83
+USA,2013,Cardiovascular,18.42,6.33,9.33,61+,Female,289931,90.03,Surgery,15579,92.8,0.89
+Nigeria,2007,Neurological,3.48,5.71,1.21,0-18,Female,393296,75.6,Medication,15744,65.45,9.81
+Italy,2000,Chronic,15.59,4.74,6.38,19-35,Female,253110,87.87,Therapy,7669,59.23,9.92
+Australia,2006,Chronic,10.12,2.08,6,61+,Male,174143,95.9,Medication,9468,93.21,2.96
+Canada,2011,Cardiovascular,11.15,0.6,2.97,36-60,Female,76858,67.88,Surgery,19993,76.16,1.23
+Mexico,2009,Metabolic,3.88,10.85,1.85,0-18,Male,462950,71.06,Vaccination,36202,63.54,3.16
+Nigeria,2007,Infectious,8.92,13.19,5.52,36-60,Female,227849,84.41,Therapy,45685,68.02,3.98
+France,2004,Bacterial,11.4,5.15,7.77,61+,Male,420730,86.28,Therapy,49545,52.4,1.11
+Australia,2020,Parasitic,17.27,1.26,7.08,61+,Male,766425,53.75,Therapy,20169,58.19,4.51
+USA,2024,Viral,1.82,2.98,7.01,36-60,Female,623844,96.83,Medication,4664,87.75,8.11
+Nigeria,2009,Parasitic,15.18,14.95,8.21,0-18,Male,788926,87.33,Vaccination,31596,50.8,0.79
+Australia,2006,Bacterial,13.39,13.85,4.04,61+,Male,134472,90.34,Surgery,44696,58.67,5.51
+France,2015,Respiratory,14.44,5.69,2.21,19-35,Other,959930,57.31,Medication,48221,54.8,6.49
+Indonesia,2001,Cardiovascular,3.24,0.43,2.12,36-60,Male,938294,54.07,Vaccination,32325,92.95,4.93
+Turkey,2019,Respiratory,8.74,1.42,1.54,19-35,Other,124225,59.94,Vaccination,20405,73.62,4.22
+China,2001,Neurological,2.92,1.17,7.35,36-60,Other,276364,80.23,Surgery,28401,51.53,1.47
+South Africa,2014,Bacterial,5.94,4.29,2.36,61+,Female,857183,61.32,Therapy,14578,72.97,1.4
+Japan,2021,Autoimmune,11.24,4.78,5.68,19-35,Male,947147,66.78,Surgery,20397,98.55,7.43
+USA,2000,Metabolic,7.91,9.13,1.58,0-18,Male,365955,64.87,Therapy,8688,79.09,9.56
+UK,2010,Genetic,10.58,12.3,2.37,0-18,Female,822231,66.36,Surgery,4533,52.91,3.67
+Canada,2001,Neurological,16.03,7.29,0.39,61+,Male,804802,78.96,Therapy,1676,80.52,8.64
+Russia,2003,Neurological,1.45,12.86,3.21,36-60,Male,468005,63.31,Therapy,12119,90.01,7.68
+Mexico,2022,Neurological,11.63,8.99,0.54,36-60,Other,402997,90.8,Surgery,9975,84.78,4.71
+UK,2019,Neurological,14.72,0.84,6.72,0-18,Male,294143,50,Vaccination,26485,66.32,6.07
+Japan,2002,Respiratory,12.61,12.98,5.45,19-35,Male,116844,65.71,Vaccination,16118,64.88,8.59
+Saudi Arabia,2006,Parasitic,15.12,9.04,6.9,0-18,Female,834340,91,Therapy,15983,89.49,6.01
+Canada,2001,Autoimmune,13.29,9.76,7.77,0-18,Male,205610,89.47,Medication,1190,67.79,4.73
+Brazil,2003,Viral,13.85,4.52,3.23,61+,Male,700175,62.54,Medication,33734,75.62,9.79
+Canada,2019,Bacterial,2.08,12.8,0.1,36-60,Other,558329,55.52,Vaccination,36659,62.21,6.08
+Brazil,2011,Neurological,6.42,10.08,0.29,0-18,Other,136567,50.48,Surgery,18886,80.2,5.37
+France,2005,Metabolic,6.09,10.77,1.42,19-35,Other,267802,95.85,Medication,27027,82.82,9.46
+Turkey,2006,Cardiovascular,10.53,2.5,5.09,0-18,Male,923451,76.24,Vaccination,29311,93.53,6.45
+Australia,2014,Cardiovascular,12.52,3.13,9.14,19-35,Female,828045,68.61,Surgery,41081,61.53,7.16
+Japan,2022,Metabolic,3.77,1.02,3,0-18,Male,509716,63.88,Vaccination,49265,51.6,0.45
+France,2008,Respiratory,4.6,4.94,2.08,61+,Female,215901,63.27,Therapy,35024,73.99,0.04
+Mexico,2006,Neurological,5.84,6.71,0.63,61+,Other,999156,95.87,Therapy,47635,90.72,3.48
+Indonesia,2000,Bacterial,1.22,13.78,3.9,0-18,Male,723071,56.9,Therapy,45214,97.84,3.3
+Turkey,2022,Chronic,6.97,2.22,6.35,36-60,Male,534508,91.15,Vaccination,24653,76.34,3.99
+Germany,2017,Metabolic,3.04,2.12,4.46,61+,Male,639082,96.85,Medication,33639,71.36,8.09
+Brazil,2003,Neurological,12.5,13.27,9.34,19-35,Male,280906,89.39,Surgery,16622,87.39,1.16
+Brazil,2010,Autoimmune,0.13,13.99,1.46,36-60,Female,134964,69.35,Vaccination,14688,61.6,7.23
+UK,2003,Chronic,1.08,0.18,3.54,61+,Male,596241,85.86,Medication,31291,53.7,8.65
+Australia,2009,Infectious,2.44,8.04,8.74,0-18,Other,283322,97.18,Therapy,26854,93.65,7.02
+Saudi Arabia,2023,Metabolic,14.72,13.9,3.28,36-60,Female,28737,97.73,Medication,24176,85.19,3.9
+India,2003,Bacterial,0.19,14.26,8.38,0-18,Male,349846,72.29,Medication,35329,81.85,8.8
+Nigeria,2002,Neurological,3.49,14,6.61,36-60,Male,786558,58.08,Vaccination,21612,74.02,9.07
+China,2022,Metabolic,17.12,4.84,7.71,36-60,Female,343352,98.3,Vaccination,43779,84.34,7.43
+Argentina,2015,Infectious,18.17,12.36,2.68,61+,Male,417401,78.88,Therapy,26058,81.03,7.43
+Argentina,2024,Parasitic,10.94,12.88,6.25,61+,Female,419192,94.54,Medication,16363,72.52,5.36
+Italy,2008,Chronic,15.94,11.73,6.37,0-18,Other,644854,51.11,Surgery,17197,74.51,8.59
+Russia,2019,Autoimmune,13.86,0.79,1.18,0-18,Other,251830,71.56,Vaccination,29568,52.61,6.47
+USA,2011,Chronic,10.45,11.76,5.57,36-60,Male,87481,99.11,Therapy,33766,80.17,9.96
+Argentina,2007,Parasitic,15.6,0.63,7.03,61+,Female,653664,80.52,Vaccination,49833,91.28,8.75
+Russia,2023,Bacterial,16.22,8.43,9.61,61+,Other,422327,51.8,Therapy,27605,98.03,4.23
+China,2014,Cardiovascular,0.55,0.85,3.83,36-60,Female,123270,62.89,Vaccination,18513,58.47,4.47
+Japan,2017,Genetic,13.63,8.09,7.03,36-60,Male,633115,55.2,Medication,22954,66.11,0.13
+Brazil,2013,Metabolic,16.01,8.55,1.35,19-35,Male,384573,81.59,Medication,18972,70.43,8.75
+Japan,2005,Respiratory,8.6,13.42,2.32,36-60,Female,757834,82.86,Medication,14207,75.42,3.93
+Nigeria,2010,Cardiovascular,18.17,6.2,2.12,19-35,Female,985553,88.65,Therapy,14348,88.66,4.35
+Russia,2008,Metabolic,1.69,7.96,7.09,0-18,Other,879623,98.94,Surgery,12685,72.26,5.6
+Nigeria,2017,Neurological,1.17,10.47,5.72,0-18,Other,368210,99.1,Medication,9051,96.1,3.73
+France,2006,Autoimmune,9.01,3.55,6.53,0-18,Other,773388,57.54,Surgery,2932,64.38,6.27
+South Korea,2000,Genetic,3.96,5.55,0.62,36-60,Male,815017,80.67,Therapy,42062,67.77,5.45
+Australia,2024,Genetic,5.88,12.37,4.73,36-60,Other,767034,81.29,Surgery,33829,75.4,7.85
+South Africa,2017,Neurological,10.72,6.64,7.89,0-18,Male,22434,93.27,Therapy,32840,70.46,7.44
+Argentina,2006,Infectious,3.95,4,8.84,0-18,Male,116183,77.08,Surgery,22983,64.73,1.49
+USA,2002,Respiratory,7.13,6.96,4.02,61+,Other,251611,53.4,Therapy,45671,94.23,1.21
+USA,2012,Chronic,4.9,6.6,6.16,61+,Female,438583,53.83,Surgery,40367,95.01,5.37
+Australia,2017,Chronic,6.33,12.84,2.47,36-60,Female,183029,67.22,Therapy,39219,87.03,3.29
+Turkey,2003,Metabolic,18.56,0.9,7.51,0-18,Female,751970,92.95,Vaccination,25402,78.8,2.15
+India,2017,Cardiovascular,1.26,6.79,7.42,36-60,Other,243846,50.4,Medication,9681,60.5,6.72
+India,2010,Genetic,4.21,11,7.01,0-18,Male,656226,73.58,Medication,27378,75.42,4.68
+Turkey,2009,Parasitic,0.13,4.88,5.56,36-60,Other,928625,77.83,Surgery,16925,92.6,9.73
+Brazil,2024,Genetic,0.73,9.28,1.09,19-35,Male,4233,54.43,Therapy,2078,61.8,3.23
+Saudi Arabia,2013,Cardiovascular,5.02,12.51,7.95,36-60,Male,438887,83.75,Medication,785,60.11,7.37
+Japan,2003,Cardiovascular,8.85,10.11,5.56,61+,Male,176109,74.09,Vaccination,3231,67.02,4.26
+Mexico,2013,Neurological,6.53,3.9,6.61,19-35,Female,845940,59.02,Medication,13525,96.32,8.44
+Germany,2008,Metabolic,15.02,0.38,7.85,19-35,Male,675112,95.64,Medication,37518,62.14,5.4
+UK,2001,Respiratory,15.09,1.39,5.28,19-35,Other,196827,66.84,Surgery,44835,52,8.41
+France,2012,Genetic,17.97,14.95,0.51,61+,Male,472620,70.33,Vaccination,38948,58.35,7.04
+Italy,2002,Metabolic,11.27,14.1,6.54,61+,Other,411017,97.91,Surgery,1544,92.64,3.75
+Russia,2009,Respiratory,19.48,10.41,3.4,19-35,Male,929016,97.88,Surgery,12023,86.8,8.2
+UK,2008,Bacterial,8.12,8.58,5.85,0-18,Male,432506,57.81,Vaccination,40742,97.46,9.21
+Nigeria,2003,Infectious,8.2,13.28,8.04,19-35,Male,197972,56.79,Medication,27625,63.55,4.38
+Australia,2013,Cardiovascular,16.13,7.82,2.81,36-60,Male,75709,99.72,Therapy,24545,57.43,2.22
+Canada,2015,Respiratory,0.2,12.46,0.62,19-35,Male,997992,60.93,Therapy,10376,93.68,4.59
+UK,2023,Bacterial,10.69,5.69,3.12,19-35,Male,55467,53.02,Vaccination,10052,71.01,5.57
+South Africa,2001,Viral,5.36,12.16,1.15,36-60,Other,943366,59.36,Therapy,19131,86.17,6.91
+USA,2020,Metabolic,8.06,0.4,2.78,61+,Male,871292,60.95,Therapy,49671,58.75,1.23
+Argentina,2012,Genetic,2.71,10.97,5.68,19-35,Female,837164,95.72,Surgery,26506,89.14,6.35
+Brazil,2021,Parasitic,12.12,4.91,5.55,0-18,Male,767760,76.47,Vaccination,38837,76.76,6.57
+China,2013,Viral,15.57,4.01,4.44,36-60,Male,386948,98.78,Medication,3109,67.24,7.33
+Brazil,2009,Autoimmune,4.96,5.73,6.74,61+,Male,468156,80.73,Therapy,15324,90.18,9.89
+Russia,2012,Chronic,4.82,6.69,2.02,36-60,Female,695608,86.77,Therapy,16648,94.04,0.77
+Brazil,2016,Autoimmune,1.22,11.06,9.54,61+,Female,78563,77.08,Medication,20016,86.81,0.05
+Russia,2021,Autoimmune,14.29,1.57,7.12,0-18,Female,920061,70.1,Vaccination,38676,87.97,0.24
+Turkey,2020,Bacterial,19.87,2.85,8.83,0-18,Other,869772,95.5,Therapy,42978,91.8,3.67
+Mexico,2008,Parasitic,3.21,9.93,3.15,19-35,Other,173719,78.85,Therapy,49028,92.23,4.82
+Australia,2020,Genetic,12.89,12.34,1.52,36-60,Other,108176,54.73,Medication,9153,85.7,1.03
+Australia,2006,Respiratory,13.42,7.87,6.43,19-35,Female,635718,86.96,Medication,34292,59.44,5.58
+Nigeria,2013,Genetic,16.42,3.73,9.38,0-18,Other,54680,79.4,Therapy,18609,59.41,8.61
+Japan,2013,Metabolic,6.24,2.74,0.38,19-35,Female,574312,88.68,Vaccination,22952,51.68,0.87
+South Korea,2023,Chronic,9.74,11.62,3.87,0-18,Male,15852,91.8,Vaccination,33473,76.67,3.33
+Saudi Arabia,2024,Chronic,13.4,11.44,9.59,61+,Other,259325,63.99,Surgery,14273,90.56,7.2
+China,2023,Genetic,18.82,1.97,0.55,19-35,Male,421832,87.89,Vaccination,49084,83.95,1.4
+China,2013,Metabolic,15.83,0.95,2.06,36-60,Male,696874,72.54,Surgery,44472,54.76,9.36
+Australia,2003,Cardiovascular,13.62,5.88,2.9,61+,Male,664678,90.61,Vaccination,16650,58.4,9.92
+Japan,2010,Metabolic,8.19,14.32,5.89,0-18,Other,313216,57.24,Surgery,13382,90.54,2.94
+Turkey,2007,Bacterial,15.55,12.9,6,61+,Male,445868,73.53,Therapy,46459,83.86,1.69
+South Korea,2007,Genetic,5.13,6.29,2.12,61+,Other,641206,85.48,Surgery,4233,65.96,3.11
+Mexico,2009,Autoimmune,12.49,5.49,6.46,36-60,Male,970906,92.74,Medication,10256,94.83,7.33
+USA,2023,Parasitic,12,5.12,9.81,19-35,Male,825564,60.93,Surgery,45724,52.79,9.81
+USA,2004,Parasitic,12.46,8.02,2.27,36-60,Male,741313,51.61,Surgery,26577,93.78,1.79
+Russia,2017,Respiratory,15.96,10.06,5.16,19-35,Male,753582,61.65,Medication,48049,58.86,1.28
+Saudi Arabia,2007,Parasitic,5.5,14.36,9.2,19-35,Other,546335,71.61,Surgery,37978,54.99,4.68
+Italy,2007,Bacterial,10.86,4.27,7.6,36-60,Female,786494,87.48,Surgery,32906,67.71,9.22
+Russia,2000,Cardiovascular,18.78,13.15,8.79,0-18,Female,502933,68.39,Therapy,31272,64.8,0.13
+India,2002,Bacterial,8.39,13.32,7.64,19-35,Other,664263,82.12,Vaccination,31921,96.66,9.55
+UK,2014,Parasitic,7.72,0.19,1.47,0-18,Other,859912,74.33,Medication,19614,66.85,0
+Germany,2015,Parasitic,7.71,9.52,5.16,36-60,Female,242729,79.06,Medication,43093,93.67,3.78
+India,2000,Neurological,4.11,12.63,3.34,19-35,Other,487858,72.5,Therapy,36473,63.61,4.71
+Argentina,2018,Cardiovascular,10.17,3.67,1.15,19-35,Female,547008,76.27,Surgery,28770,89.84,7.55
+Italy,2017,Neurological,5.82,12.64,4.69,0-18,Female,780304,96.24,Therapy,44177,72.86,8.27
+Germany,2018,Cardiovascular,16.48,0.49,7.75,0-18,Male,604361,64.79,Vaccination,11595,96.23,3.45
+Argentina,2017,Cardiovascular,13.13,9.85,1.08,36-60,Female,445865,70.18,Therapy,20492,53.74,9.42
+Germany,2020,Viral,1.6,10.78,2.3,36-60,Other,583108,68.29,Therapy,31708,97.8,7.11
+Canada,2010,Neurological,4.26,13.73,0.16,36-60,Male,996493,64.39,Medication,37562,67.9,2.93
+Indonesia,2016,Respiratory,5.09,9.7,0.37,19-35,Female,794791,79.41,Medication,7037,91.09,4.93
+Brazil,2000,Metabolic,14.48,5.42,3.49,61+,Female,391316,98.41,Therapy,1036,71.26,5.72
+Indonesia,2011,Genetic,0.7,7.19,5.33,36-60,Other,622322,73.18,Vaccination,15470,52.66,8.16
+France,2008,Autoimmune,4.21,8.48,3.49,19-35,Other,960461,55.28,Therapy,8740,72.57,3.93
+Nigeria,2017,Parasitic,12.36,13.74,2.65,61+,Male,66129,93.82,Surgery,25753,94.81,5.5
+Saudi Arabia,2020,Viral,13.62,3.99,6.26,61+,Male,492240,82.48,Medication,18272,78.6,3.29
+Australia,2019,Cardiovascular,6.98,3.24,5.95,36-60,Other,530109,80.27,Surgery,37990,86.87,0.29
+South Korea,2024,Metabolic,19.7,12.87,6.32,36-60,Male,554052,91.59,Therapy,48474,97.27,7.01
+Japan,2019,Metabolic,19.2,1.97,7.48,61+,Female,376897,73.74,Medication,34135,64.37,3.14
+UK,2011,Genetic,5.72,10.06,1.41,19-35,Female,161946,67.48,Therapy,9037,80.78,6.2
+South Korea,2023,Chronic,12.65,1.03,4.51,0-18,Male,485252,91.37,Therapy,45917,76.25,9.47
+Australia,2024,Autoimmune,9.28,6.83,2.54,0-18,Female,212421,72.33,Therapy,44685,67.4,8.6
+Saudi Arabia,2002,Cardiovascular,10.88,1.36,7.36,61+,Female,747469,83.96,Medication,38584,97.16,6.48
+USA,2005,Parasitic,7.12,13.74,5.82,19-35,Female,331204,89.47,Therapy,33487,74.97,4.26
+Australia,2016,Autoimmune,8.63,1.82,8.79,61+,Male,119821,68.25,Medication,13684,82.17,5.04
+Australia,2020,Parasitic,6.06,4.94,8.39,61+,Other,634580,52.03,Vaccination,2135,76.59,4.86
+Saudi Arabia,2001,Neurological,6.23,14.48,7.53,19-35,Male,122738,57.7,Medication,47709,98.83,5.94
+Australia,2015,Genetic,1.38,8,5.82,19-35,Other,549267,65.6,Surgery,14131,88.82,0.87
+Japan,2004,Autoimmune,0.35,9.2,4.61,61+,Female,108017,67.46,Surgery,48684,81.76,9.15
+Brazil,2012,Bacterial,16.96,10.94,1.14,0-18,Female,649479,55.18,Surgery,4420,69.43,9.01
+South Africa,2000,Bacterial,10.43,12.28,4.08,61+,Male,628263,61.13,Therapy,21268,77.85,6.49
+Italy,2020,Chronic,9.92,2.92,2.57,61+,Female,833716,75.16,Therapy,23376,77.88,3.25
+USA,2012,Chronic,12.6,11.93,4.71,0-18,Male,792327,72.73,Surgery,1643,65.47,1.59
+China,2001,Parasitic,8.68,1.07,2.32,36-60,Other,112276,77.59,Therapy,1976,61.64,9.41
+Argentina,2014,Neurological,12.73,8.53,3.42,0-18,Female,267470,55.57,Medication,39981,50.41,4.42
+China,2019,Bacterial,12.37,1.92,8.57,61+,Male,674211,86.77,Vaccination,30285,58.38,0.4
+Turkey,2007,Autoimmune,8.83,9.3,3.08,61+,Male,327893,51.36,Medication,38755,58.18,2.06
+UK,2016,Genetic,17.8,9.5,8.53,61+,Other,988281,88.05,Vaccination,33812,55.19,6.08
+Nigeria,2021,Bacterial,13.26,5.25,9.15,36-60,Other,252392,63.71,Therapy,949,88.03,1.84
+Australia,2003,Respiratory,12.86,9.48,2.11,36-60,Other,941410,72.74,Medication,13611,85.86,4.79
+Turkey,2011,Bacterial,9.26,12.59,8.1,61+,Male,863096,94.83,Medication,49528,76.29,8.35
+Australia,2019,Chronic,7.27,1.81,8.44,36-60,Female,923238,51.58,Surgery,21613,87.9,6.53
+Mexico,2002,Neurological,15.48,2.37,1.28,19-35,Male,795152,84.52,Therapy,5227,78.25,2.32
+Russia,2005,Bacterial,13.66,10.43,0.54,36-60,Male,150727,56.03,Surgery,10313,98.5,1.49
+Turkey,2011,Genetic,1.9,6.1,3.18,36-60,Male,380677,82.38,Medication,25818,88.93,7.12
+Australia,2011,Respiratory,3.45,4.54,4.9,61+,Male,593948,74.16,Vaccination,40570,87.63,2.9
+Mexico,2024,Autoimmune,8.75,11.65,2.55,36-60,Male,62382,51.41,Therapy,11265,96.72,6.38
+South Korea,2018,Autoimmune,5.68,5.18,7.41,61+,Male,130852,79.45,Surgery,42881,69.89,9.92
+Turkey,2007,Autoimmune,11.36,6.84,0.33,19-35,Other,422894,56.41,Surgery,478,72.14,9.31
+Germany,2009,Respiratory,0.97,3.97,2.22,0-18,Female,881564,89.55,Surgery,46305,61.33,5.89
+UK,2022,Infectious,13.47,1.67,7.39,0-18,Male,757339,62.94,Surgery,22504,93.31,3.28
+UK,2020,Bacterial,0.64,7.28,1.91,19-35,Male,140343,53.97,Vaccination,33721,95.04,6.01
+China,2024,Chronic,6.38,12,4.29,61+,Other,505477,92.74,Vaccination,31813,57.61,8.87
+India,2023,Parasitic,5.41,5.39,8.18,36-60,Other,202968,81.03,Medication,48771,96.97,5.13
+Saudi Arabia,2014,Respiratory,12.52,8,3.27,19-35,Male,679341,53.21,Surgery,21986,59.25,9.09
+Indonesia,2017,Infectious,11.76,3.46,4.69,36-60,Female,927687,55.55,Surgery,25038,57.22,3.75
+Japan,2024,Cardiovascular,15.89,1.56,3.22,61+,Male,505520,99.7,Surgery,22596,66.54,5.08
+France,2015,Chronic,16.5,5.67,3.37,36-60,Male,758816,69.48,Surgery,22490,95.16,3.36
+Australia,2022,Respiratory,1.21,11.67,7.07,36-60,Female,968955,84.01,Therapy,34503,64.35,6.53
+Nigeria,2019,Chronic,8.75,3.59,8.32,19-35,Other,190562,72.22,Vaccination,7261,85.8,3.45
+Turkey,2011,Genetic,19.67,8.35,0.46,19-35,Male,269256,73.95,Surgery,40169,58.02,8.43
+France,2003,Chronic,12.3,5.28,8.24,19-35,Other,957488,75.8,Surgery,8650,91.51,7.11
+Indonesia,2020,Neurological,1.37,0.11,0.71,36-60,Female,107468,77.8,Surgery,44598,66.37,6.14
+Turkey,2004,Autoimmune,12.75,10.41,1.88,61+,Female,322573,94.26,Therapy,20475,81.02,2.6
+India,2022,Neurological,12.16,5.23,4.93,61+,Female,462287,83.75,Medication,32568,92.27,0.27
+France,2011,Infectious,1.38,1.53,9.42,19-35,Male,181315,71.72,Surgery,10746,74.96,8.71
+China,2013,Genetic,18.11,9.69,7.56,61+,Other,245909,60.16,Vaccination,15331,64.27,1.31
+Indonesia,2000,Neurological,5.34,4.94,5.99,36-60,Female,681502,77.7,Surgery,28124,94.56,7.73
+Canada,2022,Parasitic,9.44,11.41,0.52,36-60,Other,745297,63.19,Medication,7225,88.15,7.08
+Russia,2004,Metabolic,6.73,0.94,1.31,0-18,Female,239170,83.78,Surgery,18996,55.62,6.52
+Argentina,2011,Infectious,12.29,14.99,1.94,61+,Male,23450,67.16,Therapy,23639,72.18,2.19
+Russia,2005,Respiratory,18.94,0.55,8.57,0-18,Other,94432,82.88,Vaccination,28086,54.8,7.26
+Nigeria,2018,Neurological,16.68,7.65,3.93,19-35,Male,761670,64.94,Surgery,40877,89.53,9.87
+Argentina,2004,Chronic,1.85,11.9,1.07,0-18,Other,429160,81.16,Medication,45822,79.78,0.9
+Russia,2011,Genetic,13.59,4.93,5.69,36-60,Male,588749,72.36,Vaccination,25076,55.83,7.43
+Canada,2017,Metabolic,17.12,11.21,9.83,0-18,Other,994638,69.64,Surgery,32605,80.55,3.32
+Canada,2019,Metabolic,7.67,11.75,9.43,19-35,Female,74107,63.52,Surgery,45020,81.39,9.86
+Nigeria,2014,Respiratory,19.55,11.39,9.65,19-35,Male,808334,95.38,Therapy,10561,76.6,3.75
+Italy,2019,Neurological,7.86,11.62,4.49,61+,Male,461301,57.71,Medication,7373,72.27,1.04
+Mexico,2006,Neurological,13.79,11.33,3.77,0-18,Female,271269,51.77,Surgery,38674,92.08,4.99
+Saudi Arabia,2023,Viral,5.85,3.44,1.98,61+,Female,495571,76.08,Medication,21081,54.43,9.81
+Japan,2019,Autoimmune,19.73,9.45,3.46,0-18,Male,485580,70.88,Medication,46130,95.33,3.24
+Nigeria,2022,Bacterial,7.52,5.48,0.79,19-35,Female,356524,95.79,Therapy,28844,75.59,0.41
+Mexico,2012,Viral,1.38,2.68,4.4,19-35,Male,536766,54.72,Surgery,39501,84.53,6.88
+Japan,2021,Metabolic,5.07,1.84,5.82,19-35,Female,799746,82.7,Vaccination,38929,59.74,0.05
+China,2001,Chronic,17.58,13.55,1.24,36-60,Other,19064,61.06,Medication,3599,64.94,7.98
+Australia,2023,Viral,15.88,7.06,4.39,19-35,Female,798913,83.71,Therapy,11473,78.43,9.66
+USA,2001,Chronic,15.92,0.31,0.2,36-60,Male,653764,95.67,Vaccination,48126,72.62,6.4
+France,2020,Neurological,9.13,13.68,4.57,61+,Other,88365,58.66,Therapy,44342,54.69,8.57
+USA,2005,Genetic,7.45,13.13,6.72,19-35,Other,985973,59.19,Medication,35309,64.1,2.17
+Japan,2016,Chronic,1.82,11.86,2.39,0-18,Other,450550,65.27,Therapy,8204,82.65,6.3
+Australia,2013,Bacterial,11.45,11.28,9.36,61+,Female,324553,52.03,Medication,13303,51.05,9.1
+South Korea,2006,Metabolic,4.78,6.86,0.12,36-60,Male,898336,76.11,Therapy,9581,74.45,4.11
+South Africa,2011,Autoimmune,8.82,0.94,3.38,0-18,Male,608766,72.23,Surgery,26357,55.16,4.96
+Mexico,2004,Genetic,6.23,2.53,3.12,36-60,Male,331715,61.06,Therapy,25583,74.28,7.39
+France,2002,Viral,8.39,10.3,7,36-60,Female,566300,55.09,Therapy,28493,95.1,3.34
+South Africa,2022,Cardiovascular,18.88,11.8,9.99,36-60,Female,561212,75.27,Medication,15088,67.72,2.56
+Canada,2002,Neurological,19.53,1.97,2.08,36-60,Male,328948,50.86,Surgery,2507,62.29,1.04
+Indonesia,2009,Neurological,15.11,6.88,2.52,19-35,Female,809983,58.8,Vaccination,34655,74.81,0.24
+Brazil,2013,Respiratory,14.42,12.89,1.1,61+,Female,630793,61.59,Vaccination,44286,95.19,8.33
+UK,2003,Metabolic,9.46,1.89,8.11,19-35,Male,505295,65.92,Surgery,25105,62.69,6.83
+Indonesia,2013,Bacterial,12.12,10.46,9.68,19-35,Male,849820,77.26,Surgery,38737,71.31,8.27
+Japan,2003,Metabolic,18.35,4.56,7.08,36-60,Female,90090,57.82,Medication,49392,94.6,4.51
+Mexico,2006,Respiratory,8.87,9.33,2.73,36-60,Other,232757,83.33,Vaccination,45105,64.62,1.46
+Italy,2006,Metabolic,9.4,11.78,6.43,19-35,Female,39955,98.33,Medication,17911,68.46,7.8
+Russia,2008,Genetic,9.2,5.62,8.11,36-60,Female,190835,53.99,Vaccination,12362,53.92,9.13
+Russia,2005,Viral,5.73,2.78,6.74,61+,Male,462925,93.04,Medication,34429,84.51,9.64
+China,2009,Metabolic,15.4,8.81,9.02,36-60,Male,795379,63.58,Vaccination,44457,75.81,5.18
+Japan,2002,Cardiovascular,15.39,12.12,4.78,0-18,Male,264016,86.42,Medication,14256,63.08,1.18
+Russia,2008,Viral,1.42,6.87,2.96,0-18,Female,556432,79.68,Vaccination,47012,77.54,0.08
+Argentina,2006,Infectious,16.05,14,9.57,19-35,Male,786438,83.81,Vaccination,632,87.45,1.49
+Mexico,2021,Neurological,17,0.51,4.65,61+,Other,576477,82.73,Surgery,33907,81.74,7.84
+France,2003,Neurological,15.22,10.33,1.46,61+,Other,572869,86.4,Therapy,37460,97.31,5.59
+Germany,2022,Bacterial,12.75,5.26,0.12,19-35,Male,932796,56.17,Therapy,14925,59.29,2.43
+Turkey,2020,Cardiovascular,14.63,4.26,2.67,36-60,Other,189141,92.46,Therapy,27140,61.52,7.65
+Saudi Arabia,2010,Chronic,9.76,12.87,1.03,0-18,Female,180999,55.04,Therapy,45581,77.07,0.44
+Argentina,2000,Infectious,13.67,12.83,6.94,61+,Male,363360,53.59,Surgery,12141,53.56,8.86
+Indonesia,2017,Bacterial,10.98,9.7,5.39,0-18,Other,361064,55.71,Vaccination,41744,51.69,7.76
+France,2000,Autoimmune,12.52,6.73,4.61,19-35,Female,209982,59.8,Vaccination,32484,73.7,1.07
+South Korea,2013,Bacterial,17.24,13,6.09,0-18,Female,475133,89.55,Medication,24813,56.29,9.77
+Brazil,2008,Autoimmune,6.46,13.76,2.27,36-60,Male,998568,92.71,Vaccination,38135,67.41,0.47
+Nigeria,2000,Metabolic,15.65,10.07,1.4,61+,Female,290272,76.9,Vaccination,1774,76.34,7.5
+USA,2023,Parasitic,6.87,12.19,8.07,0-18,Male,154673,99.94,Therapy,36734,55.05,7.33
+Turkey,2003,Genetic,5.23,0.9,9.16,19-35,Female,481752,58.82,Therapy,38810,98.89,3.57
+Italy,2007,Respiratory,11.38,5.57,0.99,36-60,Male,295698,53.59,Medication,24950,91.66,6.1
+Turkey,2006,Parasitic,18.46,7.78,6.42,61+,Other,232518,72,Therapy,10978,58.57,8.84
+Turkey,2000,Autoimmune,15.25,2.38,8.78,0-18,Male,700885,65.14,Medication,46322,74.12,6.7
+South Africa,2004,Respiratory,12.68,7.07,0.53,61+,Male,589027,61.23,Vaccination,39038,77.24,4.65
+UK,2015,Bacterial,9.72,4.59,1.59,61+,Female,192154,82.83,Surgery,37104,89.68,4.22
+Russia,2017,Bacterial,12.64,0.51,6.44,0-18,Female,394381,98.55,Surgery,44191,67.3,1.85
+Canada,2019,Viral,13.73,0.58,8.07,36-60,Female,637923,87.26,Surgery,29201,92.88,8.46
+Argentina,2022,Neurological,13.15,2.66,7.18,19-35,Other,691168,76.71,Surgery,48484,51.77,1.78
+Italy,2016,Neurological,0.72,11.12,0.43,19-35,Female,628421,53.98,Vaccination,32105,96.37,7.41
+Canada,2005,Genetic,16.07,4.32,0.85,61+,Male,406260,93.68,Therapy,23364,72.06,2.7
+Australia,2003,Infectious,14.7,13.3,4.37,36-60,Female,689317,53.79,Surgery,37545,80.06,5.44
+Australia,2004,Respiratory,7.33,9.26,9.53,61+,Other,217316,58.48,Surgery,47182,79.09,3.79
+Turkey,2009,Autoimmune,13.13,6.01,2.89,61+,Male,304189,63.79,Therapy,19007,97.78,8.89
+Australia,2019,Cardiovascular,5.08,11.98,4.77,36-60,Other,945415,80.87,Surgery,34824,74.91,5.48
+Mexico,2023,Chronic,14.09,7.69,5.95,19-35,Female,242948,72.29,Vaccination,1511,86.31,6.46
+Indonesia,2023,Parasitic,10.39,8.03,2.37,19-35,Male,619109,51.8,Surgery,7457,59.54,8.75
+Germany,2000,Respiratory,8.45,2.42,2.2,19-35,Male,750763,54.93,Therapy,44109,67.48,1.44
+Turkey,2008,Neurological,2.04,2.33,2.06,36-60,Female,169432,78.75,Surgery,15875,54.88,7.17
+Australia,2011,Respiratory,19.43,13.49,5.76,19-35,Other,315669,64.04,Therapy,36173,85.17,6.77
+UK,2007,Genetic,3.42,4.23,8.49,0-18,Male,183719,70.07,Therapy,32051,66.06,4.37
+Japan,2003,Parasitic,2.36,6.66,4.84,36-60,Other,332304,74.38,Surgery,9824,82.29,1.11
+South Korea,2016,Genetic,7.71,6.35,8.17,0-18,Female,468599,52.19,Medication,20535,58.73,2.92
+Canada,2010,Genetic,6.29,2.81,7.6,0-18,Other,62204,99.96,Medication,4038,52.41,5.52
+Nigeria,2000,Respiratory,9.5,14.66,4.95,36-60,Male,375401,82.3,Surgery,47533,95.28,8.24
+Nigeria,2007,Respiratory,5.4,10.35,8.46,61+,Other,148837,70.61,Medication,42325,78.16,7.62
+India,2009,Respiratory,11.09,0.61,0.19,61+,Male,443507,98.45,Medication,35639,74.77,9.78
+China,2007,Autoimmune,18.57,0.33,1.47,36-60,Male,367840,65.1,Therapy,37204,66.61,5.32
+Indonesia,2011,Genetic,13.23,8.9,6.4,19-35,Female,125602,98.84,Surgery,25257,70.73,8.5
+South Africa,2001,Metabolic,7.92,4.81,1.69,19-35,Other,265689,61.93,Therapy,24301,62.54,3.25
+USA,2021,Genetic,15.35,10.93,0.54,36-60,Female,8728,66.2,Medication,42635,86.55,3.53
+Brazil,2022,Chronic,11.8,1.9,1.45,36-60,Other,959393,55.91,Vaccination,39717,50.28,3.61
+China,2022,Parasitic,4.74,6.86,1.66,0-18,Male,428767,86.24,Medication,7898,77.22,9
+Brazil,2001,Parasitic,0.15,12.68,9.36,19-35,Male,358457,97.03,Therapy,28228,59.11,0.07
+India,2015,Autoimmune,12.35,14.64,6.32,36-60,Other,32305,76.42,Medication,42769,64.54,2.77
+Saudi Arabia,2001,Respiratory,6.68,3.93,9.73,36-60,Other,802738,71.68,Vaccination,44612,96.69,0.89
+South Africa,2005,Neurological,8.11,13.14,9.33,36-60,Female,525325,63.96,Surgery,32127,51.47,0.65
+USA,2013,Neurological,13.76,13.48,9.18,61+,Female,919588,56.96,Vaccination,30471,78.52,9.34
+Turkey,2006,Cardiovascular,9.16,3.2,8.38,36-60,Female,191854,73.53,Vaccination,29739,92.12,8.42
+Indonesia,2001,Bacterial,6.8,4.31,2.88,36-60,Other,581445,92.98,Medication,23536,81.97,2.62
+Russia,2021,Chronic,15.84,11.62,2.26,61+,Female,717792,82.71,Medication,13191,68.02,3.23
+Turkey,2007,Respiratory,9.25,4.64,8.21,61+,Male,681172,70.11,Surgery,7704,70.26,9.76
+Indonesia,2020,Viral,2.17,10.63,6.56,19-35,Female,722928,72.7,Therapy,27784,52.03,9.1
+USA,2012,Genetic,15.17,1.9,4.76,61+,Male,561804,56.94,Therapy,13299,84.15,8.91
+UK,2001,Genetic,15.71,6,2.38,61+,Other,5779,70.58,Surgery,14111,50.74,5.46
+Turkey,2015,Bacterial,8.2,8.51,5.24,19-35,Other,752054,59.36,Therapy,2255,54.29,6.66
+Nigeria,2001,Parasitic,11.57,0.25,7.95,36-60,Other,468765,51.73,Therapy,5371,54.4,7.97
+Japan,2009,Viral,14.36,8.32,6.88,19-35,Male,468409,77.92,Surgery,30145,73.31,8.24
+India,2013,Viral,9.75,4.81,0.33,36-60,Female,366510,98.73,Surgery,33714,73.8,5.63
+Nigeria,2011,Respiratory,14.47,3.13,5.56,36-60,Male,819433,68.66,Medication,41597,52.61,7.52
+Mexico,2007,Metabolic,9.8,13.29,4.56,36-60,Male,893309,97.51,Surgery,25379,78.66,6.64
+South Africa,2023,Viral,1.61,15,7.66,36-60,Other,353105,57.01,Medication,21433,74.88,7.5
+Argentina,2005,Parasitic,14.08,1.03,1.78,19-35,Female,864131,93.24,Therapy,41524,92.16,2.96
+Russia,2017,Infectious,3.1,10.77,7.61,0-18,Male,220721,77.22,Therapy,34101,74.86,8.39
+Japan,2023,Parasitic,7.28,2.75,8.98,61+,Male,230036,72.44,Therapy,13749,67.76,3.7
+Nigeria,2015,Viral,16,7.58,9.45,36-60,Male,943177,69.97,Vaccination,12713,73.64,2.67
+India,2013,Cardiovascular,9.45,8.26,5.19,61+,Other,37439,91.4,Vaccination,35565,91.47,3.71
+Australia,2016,Infectious,14.61,0.18,5.94,36-60,Other,280996,99.5,Therapy,46369,77.2,8.09
+Australia,2000,Neurological,11.27,13.78,6.65,36-60,Female,428655,50.38,Vaccination,21342,72.4,3.08
+South Africa,2015,Metabolic,16.04,2.13,8.09,0-18,Male,592857,99.65,Surgery,19889,60.91,1.25
+Turkey,2024,Respiratory,1.5,6.06,8.26,19-35,Male,667292,91.86,Medication,35889,70.32,5.48
+China,2003,Respiratory,12.98,0.73,3.13,36-60,Other,992012,65.93,Vaccination,4004,94.48,5.42
+USA,2021,Genetic,11,11.82,0.15,61+,Male,197122,92.64,Surgery,47468,73.51,2.35
+Indonesia,2000,Infectious,13.59,5.16,2.49,61+,Other,513904,79.33,Vaccination,44436,57.88,7.12
+South Africa,2005,Autoimmune,9.01,0.13,7.03,19-35,Other,234348,96.07,Surgery,39181,77.7,3.98
+Indonesia,2006,Respiratory,17.97,5.88,4.49,0-18,Other,485228,78.5,Vaccination,30519,52.14,6.2
+Brazil,2000,Bacterial,16.02,8.57,0.7,61+,Other,945633,80.4,Medication,30880,89.9,7.31
+India,2008,Cardiovascular,7.17,3.84,5.03,19-35,Female,645018,86.03,Medication,19018,57.35,4.26
+Argentina,2015,Bacterial,17.71,13.34,9.05,19-35,Other,28171,76.71,Surgery,40836,77.78,3.34
+South Africa,2011,Neurological,10.67,9.05,8.47,0-18,Other,940396,66.24,Medication,32057,53.7,0.98
+Canada,2005,Genetic,16.66,1.81,5.61,36-60,Female,11985,86.41,Vaccination,9606,81.81,8.11
+South Africa,2007,Bacterial,17.18,8.98,4.01,36-60,Female,339150,91.19,Medication,47236,80.49,0.96
+South Africa,2008,Cardiovascular,12,6.95,5.15,61+,Female,309995,96.6,Vaccination,16624,73.91,2.93
+Japan,2014,Bacterial,14.12,3.45,6.5,36-60,Other,85481,53.04,Medication,31249,50.44,4.09
+China,2003,Infectious,1.95,5.72,7.92,61+,Male,187249,93.57,Therapy,16183,63.34,9.87
+Nigeria,2017,Infectious,2.82,10.91,5.04,19-35,Female,353839,79.83,Surgery,8192,54.62,4.8
+South Korea,2001,Neurological,9.29,7.34,5.94,36-60,Male,32083,55.68,Medication,24926,59.15,3.85
+Japan,2023,Chronic,20,12.67,2.03,36-60,Other,729604,83.5,Surgery,18212,55.39,8.31
+South Korea,2012,Cardiovascular,4.39,2.76,6.87,19-35,Other,88776,81.58,Medication,11590,82.13,4.62
+Russia,2020,Respiratory,10.72,3.24,4.78,0-18,Female,13136,83.91,Vaccination,10553,79.27,7.3
+Argentina,2014,Viral,15.83,8.16,3.54,19-35,Female,953937,80.51,Surgery,35635,89.39,0.23
+Argentina,2014,Metabolic,7.6,5.99,6.76,19-35,Female,491998,97.68,Medication,14263,65.32,5.68
+USA,2001,Chronic,9.49,13.12,6.79,19-35,Male,239331,93.58,Surgery,2267,89.68,9.67
+France,2015,Genetic,5.83,9.29,5.73,61+,Male,97182,86.64,Medication,37492,62.35,6.02
+Brazil,2022,Metabolic,18.34,8.1,5.83,61+,Male,664986,62.84,Medication,2095,90.99,9.65
+Canada,2009,Parasitic,0.74,1.45,7.24,19-35,Male,366915,92.27,Medication,21404,76.76,6.29
+Canada,2020,Viral,9.79,13.35,3.31,0-18,Male,747433,73.93,Medication,6813,70.29,2.66
+Saudi Arabia,2007,Parasitic,8.3,0.42,5.3,61+,Male,319739,93.69,Medication,13337,68.11,8.27
+Germany,2009,Bacterial,15.58,9.5,7.79,61+,Female,179661,88.61,Surgery,16211,91.77,4.25
+Indonesia,2009,Cardiovascular,1.97,7.21,3.17,36-60,Male,639875,56.64,Vaccination,41565,65.2,6.6
+Saudi Arabia,2014,Bacterial,18.1,2.43,4.38,0-18,Female,530879,53.9,Medication,47210,85.16,2.36
+Japan,2024,Chronic,17.56,5.61,5.41,36-60,Female,422664,93.3,Surgery,14286,84.25,4.22
+Russia,2010,Viral,6.56,11.71,1.46,19-35,Female,442535,65.6,Vaccination,8289,50.49,3.06
+Argentina,2019,Autoimmune,6.52,11.29,3.37,61+,Female,953759,85.83,Medication,25449,68.4,8.7
+Canada,2010,Metabolic,11.62,3.71,1.6,0-18,Female,321880,79.77,Therapy,10901,92.74,9.32
+Argentina,2003,Autoimmune,15.87,0.67,6.15,0-18,Female,982199,51.85,Therapy,24787,75.19,1.79
+Argentina,2018,Viral,5.44,9.7,7.96,61+,Other,744625,55.36,Therapy,48209,53,0.46
+Japan,2003,Chronic,11.2,2.05,3.67,19-35,Other,315332,78.33,Therapy,7542,71.5,2.29
+Nigeria,2023,Respiratory,4.48,4.96,8.83,19-35,Female,221895,96.19,Surgery,47160,79.48,9.69
+Nigeria,2007,Respiratory,12.32,10.32,8.3,61+,Other,571398,98.06,Therapy,26847,75.76,4.6
+Australia,2006,Autoimmune,19.47,3.59,7.33,36-60,Other,293799,85.39,Therapy,40544,89.5,7.44
+USA,2002,Respiratory,3.34,6.99,0.93,0-18,Other,126019,84.8,Surgery,44861,62.39,6.87
+Argentina,2024,Bacterial,9.74,11.01,8.24,61+,Other,988472,96.78,Surgery,4074,73.57,8.31
+Argentina,2010,Genetic,12.8,4.04,6.93,19-35,Female,784061,58.15,Vaccination,15643,54.26,6.15
+Brazil,2007,Autoimmune,19.92,10.34,5.39,36-60,Male,302924,96.32,Therapy,1161,68.16,1.7
+Mexico,2020,Bacterial,11.18,3.72,7.57,36-60,Female,963932,61.45,Surgery,38340,77.47,2.83
+Indonesia,2012,Infectious,1.57,7.5,5.09,61+,Other,544349,74.04,Medication,12250,87.07,7.37
+France,2016,Parasitic,5.84,5.43,5.4,61+,Other,159524,68.16,Surgery,48376,89.05,5.12
+Australia,2012,Autoimmune,2.44,8.61,6.94,61+,Other,996563,75.55,Medication,49176,51.61,4.1
+USA,2018,Parasitic,16.09,3.24,8.94,0-18,Other,479017,61.42,Surgery,13947,69.35,9.57
+Russia,2005,Autoimmune,9.75,2.56,8.47,61+,Other,179326,90.35,Vaccination,39432,74.89,0.65
+Brazil,2001,Respiratory,19.27,3.55,6.11,0-18,Female,40731,84.94,Vaccination,9310,59.82,8.16
+South Korea,2012,Neurological,2.28,14.11,9.42,0-18,Other,190659,80.87,Surgery,174,86.7,4.26
+Indonesia,2021,Respiratory,9.06,8.01,4.86,0-18,Male,63486,72.5,Medication,27354,73.07,0.36
+Mexico,2000,Bacterial,17.54,12.47,1.86,36-60,Female,181924,84.63,Vaccination,48629,72.11,1.05
+Turkey,2020,Infectious,0.36,4.36,5.99,61+,Male,450804,60.51,Medication,42032,91.51,4.91
+Canada,2007,Parasitic,6.58,10.54,3.32,19-35,Female,342411,99.92,Surgery,33386,77.77,1.47
+South Korea,2013,Autoimmune,3.17,5.45,3.4,19-35,Male,650381,85.68,Surgery,45935,65.89,5.46
+South Africa,2021,Viral,17.83,9.44,9.88,19-35,Other,729380,66.77,Therapy,18138,53.29,6.29
+Indonesia,2009,Neurological,3.43,9.75,2.43,36-60,Other,817987,85.47,Medication,44585,78.87,9.54
+Nigeria,2001,Bacterial,18.31,12.3,3.46,19-35,Other,544665,77.6,Surgery,29544,70.12,0.17
+Japan,2013,Neurological,7.54,14.43,7.38,61+,Male,337401,56.1,Surgery,38848,82.24,8.11
+South Africa,2011,Viral,19.18,3.64,1.56,36-60,Male,391922,67.56,Medication,39358,91.47,1.32
+Italy,2006,Respiratory,9.07,14.94,9.21,0-18,Other,970996,74.99,Vaccination,34270,80.29,2.2
+UK,2012,Neurological,16.77,10.88,4.84,61+,Other,593509,73.08,Vaccination,19883,55.49,1.69
+Australia,2014,Chronic,10.62,1.15,8.05,0-18,Other,910772,76.15,Vaccination,11657,73.4,6.91
+South Korea,2002,Bacterial,6.15,2.96,5.12,19-35,Female,322449,97.88,Therapy,6719,60.08,6.25
+Mexico,2009,Metabolic,13.37,3.06,9.09,0-18,Male,277697,98.86,Therapy,13169,79.28,1.8
+India,2020,Metabolic,17.87,8.07,1.21,36-60,Female,732806,63.4,Medication,7682,90.27,8.49
+Australia,2024,Chronic,11.96,6.84,7.29,0-18,Female,419800,98.45,Vaccination,1545,95.06,1.76
+China,2020,Infectious,19.84,1.97,4.41,36-60,Male,502600,62.81,Surgery,9317,52.22,7.69
+USA,2000,Cardiovascular,10.87,4.28,6.94,19-35,Male,359015,76.64,Therapy,34599,98,7.1
+Turkey,2005,Viral,6.84,7.82,6.21,61+,Female,645255,66.59,Vaccination,12271,58.61,0.8
+South Korea,2012,Parasitic,4.14,1.04,6.78,0-18,Other,935249,72.79,Vaccination,2035,67.82,5.9
+France,2005,Autoimmune,16.66,8.44,2.13,61+,Male,14496,83.09,Therapy,31715,81.13,3.76
+USA,2000,Neurological,9.89,3.4,3.37,0-18,Male,388394,98.27,Vaccination,3212,76.79,0.77
+France,2008,Genetic,12.61,0.71,2.96,61+,Male,21250,59.71,Medication,408,63.35,0.73
+Saudi Arabia,2002,Chronic,17.81,3.25,9.3,0-18,Other,391961,78.9,Medication,13272,91.95,9.2
+France,2018,Metabolic,7.68,12.46,9.23,36-60,Other,191278,76.39,Surgery,35752,92.18,8.34
+USA,2000,Respiratory,18.62,14.76,9.68,19-35,Other,455714,89.51,Vaccination,17985,71.67,0.35
+Argentina,2006,Neurological,0.65,0.39,7.97,19-35,Male,159230,93.82,Vaccination,27412,79.15,7.65
+Russia,2020,Cardiovascular,12.45,9.64,1.25,19-35,Male,144739,52.81,Vaccination,35773,54.82,9.66
+Argentina,2006,Parasitic,18.59,2.7,7,36-60,Female,539904,91.71,Medication,10407,67.81,0.57
+India,2001,Bacterial,2.3,13.36,8.87,0-18,Other,739652,94.53,Vaccination,42318,60.1,5.66
+Turkey,2024,Chronic,10.69,1.02,1.36,0-18,Male,435225,55.7,Medication,3390,71.52,9.28
+Indonesia,2018,Infectious,7.39,8.8,4.27,36-60,Female,694439,96.35,Medication,25184,83.26,9.99
+South Africa,2012,Chronic,9.6,8.92,1.25,61+,Other,844728,87.7,Therapy,12256,73.99,6.1
+Mexico,2024,Bacterial,2.65,12.16,9.89,0-18,Other,862642,60.03,Therapy,39258,55.02,3.38
+Russia,2023,Autoimmune,11.15,10.1,5.82,61+,Male,143680,77.42,Vaccination,21526,54.48,2.23
+Australia,2005,Genetic,13.82,4.68,0.65,0-18,Other,508290,77.36,Surgery,17159,67.28,8.6
+Germany,2020,Cardiovascular,11.8,8.79,7.67,61+,Other,134438,80.56,Medication,22795,97.08,9.41
+Saudi Arabia,2014,Respiratory,5.92,13.43,3.19,36-60,Female,239172,75.39,Vaccination,43808,89.44,4.38
+Turkey,2014,Infectious,6.17,8.73,7.74,61+,Female,137583,96.55,Therapy,5475,92.93,9.8
+Saudi Arabia,2022,Chronic,17,3.19,7.51,36-60,Female,414508,53.17,Medication,49785,88.64,3.54
+Italy,2004,Viral,3.96,11.16,3.94,19-35,Female,953056,62.92,Medication,9466,91.09,9.18
+Nigeria,2016,Parasitic,2.62,5.91,8.43,19-35,Female,316498,63.97,Vaccination,33807,55.24,8.7
+France,2012,Bacterial,19.45,4.14,9.59,19-35,Male,96744,52.1,Therapy,43807,51.08,2
+Canada,2018,Genetic,1.17,9.48,7.37,19-35,Female,494671,91.6,Surgery,24926,74.91,8.72
+UK,2012,Metabolic,14.86,12.26,1.97,0-18,Female,564907,51.14,Therapy,44457,88.97,6.73
+South Africa,2001,Genetic,8.7,1.43,4.97,0-18,Female,615989,62.47,Medication,48831,70.54,6.77
+South Africa,2021,Infectious,18.71,7.93,1.33,19-35,Female,405161,52.04,Medication,1495,54.98,7.25
+Brazil,2013,Cardiovascular,18.71,2.54,8.24,0-18,Female,849560,97.92,Therapy,32606,72.07,9.51
+USA,2011,Bacterial,7.69,13.46,6.4,36-60,Female,128263,96.21,Surgery,4235,55.64,4.09
+India,2007,Neurological,10.23,13.47,8.31,36-60,Female,563508,83.29,Vaccination,49492,80.71,5.51
+Nigeria,2003,Autoimmune,8.29,3.8,0.54,61+,Male,497274,94.47,Medication,16954,71.34,9.58
+India,2015,Bacterial,17.71,6.25,1.24,19-35,Male,448787,97.78,Surgery,24320,54.51,6.22
+Japan,2004,Parasitic,6.42,2.05,8.02,0-18,Other,924757,81.53,Vaccination,43355,68.25,7.6
+Russia,2010,Parasitic,4.77,3.8,3.21,0-18,Male,105706,80.95,Vaccination,25651,84.66,7
+Nigeria,2003,Bacterial,18.08,10.63,3.53,0-18,Male,214682,59.3,Vaccination,14080,69.67,2.19
+China,2002,Chronic,16.78,2.55,4.46,36-60,Other,217556,80.73,Medication,14058,97.8,7.12
+Nigeria,2009,Genetic,15.78,9.42,5.85,0-18,Male,577439,95.61,Medication,25752,86.72,4.84
+Australia,2021,Parasitic,12.98,7.51,6.19,0-18,Female,353237,56.04,Therapy,26851,53,0.38
+France,2013,Respiratory,12,13.39,0.9,61+,Female,975815,78,Vaccination,19458,50.23,3.25
+Russia,2010,Neurological,1.52,9.91,2.04,19-35,Other,19849,73.78,Vaccination,21865,87.23,3.84
+Brazil,2003,Bacterial,16.63,0.89,5.41,36-60,Male,725115,63.61,Vaccination,19941,68.2,1.85
+Mexico,2019,Parasitic,19.8,14.53,8.34,61+,Male,722200,79,Medication,36147,60.89,9.28
+Japan,2016,Neurological,18.76,6.05,4.18,61+,Other,535015,67.33,Vaccination,49858,62.36,7.11
+UK,2010,Chronic,16.82,5.15,3.41,61+,Male,815941,50.78,Vaccination,26332,86.01,1.98
+Argentina,2005,Cardiovascular,10.91,14.63,1.1,0-18,Other,601744,91.48,Surgery,3892,96.62,2.02
+South Korea,2003,Infectious,13.98,10.09,2.89,61+,Female,969849,99.17,Vaccination,25533,70.31,9.38
+USA,2019,Infectious,14.96,4.47,5.87,19-35,Other,281841,72.12,Vaccination,28070,97.08,9.97
+India,2017,Respiratory,7.49,13.71,9.88,36-60,Female,81420,58.84,Medication,31753,92.39,1.85
+Nigeria,2017,Parasitic,13.15,5.3,3.27,36-60,Male,900653,87.14,Vaccination,2699,58.09,1.54
+Canada,2009,Neurological,8.26,10.45,4.04,61+,Female,175401,67.31,Vaccination,47282,90.02,3.88
+India,2007,Neurological,17.96,0.76,5.29,36-60,Female,65153,55.52,Vaccination,4805,84.63,2.94
+Saudi Arabia,2011,Viral,13.11,11.03,3.07,19-35,Male,725884,82.61,Therapy,37018,64.17,9.25
+China,2016,Respiratory,6.49,3.63,6.47,19-35,Male,769966,92.11,Vaccination,49009,75.09,4.9
+Nigeria,2009,Metabolic,8.33,3.49,9.97,36-60,Other,70299,60.78,Therapy,21619,75.76,8.91
+Brazil,2011,Genetic,13.68,3.06,7.39,36-60,Male,125939,54.03,Therapy,42559,52.39,5.31
+India,2021,Autoimmune,12.9,0.6,3.25,36-60,Female,136889,65.91,Surgery,8218,92.03,1.05
+Australia,2003,Infectious,17.14,9.26,1.97,36-60,Male,37396,67.83,Medication,33672,93.23,7.68
+South Africa,2023,Respiratory,18.62,1.1,9.29,19-35,Male,769808,65.25,Therapy,16411,77.12,4.92
+Australia,2020,Autoimmune,19.23,8.08,4.5,61+,Other,264518,78.38,Therapy,40384,71.02,1.64
+Germany,2001,Infectious,18.26,4.37,9.69,36-60,Male,229805,73.39,Vaccination,48465,74.75,2.47
+South Korea,2005,Autoimmune,2.41,5.74,5.58,61+,Female,713552,94.3,Therapy,5708,65.05,6.5
+Germany,2003,Viral,1.57,5.68,6.89,0-18,Female,728797,81.03,Surgery,38558,77.09,6.74
+Russia,2011,Autoimmune,16.68,6.88,2.22,0-18,Male,815348,50.8,Medication,35945,85.38,7
+Mexico,2020,Neurological,10.12,14.95,5.99,61+,Female,130680,90.22,Therapy,18741,86.78,0.04
+Australia,2000,Parasitic,14.84,2.45,5.33,0-18,Female,52043,50.78,Surgery,49160,74.28,9.66
+Russia,2000,Respiratory,12.34,6.68,7.49,36-60,Other,223321,97.55,Medication,2511,65.27,9.53
+Nigeria,2002,Viral,6.24,7.2,3.77,61+,Male,368655,70.82,Therapy,28937,83.44,1.55
+Italy,2009,Genetic,1.62,5.38,2.93,61+,Male,486113,83.59,Medication,30614,61.23,7.18
+China,2020,Parasitic,11.99,7.96,1.58,61+,Male,704130,57.28,Vaccination,3054,90.93,6.32
+Russia,2014,Viral,14.08,7.55,1.25,0-18,Female,925106,66.25,Medication,46099,89.71,9.69
+Australia,2009,Genetic,12.86,11.08,2.08,19-35,Other,538726,98.74,Therapy,32714,52.79,9.95
+Germany,2000,Viral,13.82,5.53,8.32,61+,Female,497781,73.56,Therapy,24555,60.77,9.83
+Brazil,2023,Bacterial,14.6,1.09,6.96,61+,Male,480216,72.03,Therapy,41097,94.51,5.12
+UK,2006,Infectious,1.66,6.07,7.36,0-18,Other,724272,55.42,Vaccination,19555,96.79,2.4
+Canada,2017,Bacterial,9.24,1.61,9.52,19-35,Female,719938,98.73,Surgery,4433,51.44,2.28
+Germany,2000,Parasitic,7.32,3.61,8.21,19-35,Female,900264,69,Surgery,23988,57.17,0.92
+Turkey,2007,Bacterial,5.09,4.7,2.73,36-60,Male,118790,97.21,Therapy,40496,86.1,2.32
+Italy,2015,Genetic,0.26,12.69,0.57,0-18,Male,564911,94.96,Therapy,21766,70.55,1.89
+China,2005,Chronic,13.27,0.73,4.7,36-60,Male,931750,50.18,Vaccination,45022,54.33,4.16
+Canada,2007,Chronic,12.86,13.61,2.19,36-60,Other,962770,59.43,Medication,41316,64.28,3.86
+South Korea,2006,Cardiovascular,12.1,4.98,9.08,36-60,Male,969312,83.46,Vaccination,48218,74.62,8.54
+Mexico,2001,Metabolic,19.18,9.53,6.5,19-35,Female,404100,85.07,Therapy,47294,94.04,7.23
+Brazil,2013,Infectious,10.59,11.58,0.7,61+,Female,85401,79.04,Vaccination,17962,71.77,9.1
+USA,2020,Autoimmune,18.27,11.01,3.3,19-35,Other,739968,86.94,Therapy,30409,95.14,2.64
+Indonesia,2009,Metabolic,9.69,2.06,8.39,61+,Female,52110,85.86,Vaccination,21623,62.56,6.24
+Russia,2010,Parasitic,4.52,11.35,8.01,36-60,Other,403710,69.26,Vaccination,33718,90.91,7.12
+France,2024,Autoimmune,6.68,11.92,6.81,61+,Female,42803,69.1,Medication,10962,88.87,4.52
+Mexico,2002,Respiratory,1.51,7.46,9.51,61+,Male,246890,54.18,Medication,5585,95.11,0.06
+Russia,2006,Cardiovascular,12.72,14.64,0.37,36-60,Male,952851,71.36,Vaccination,29008,72.12,3.61
+UK,2016,Respiratory,10.13,14.67,8.12,0-18,Female,394075,61.17,Medication,33856,78.79,1.06
+Turkey,2023,Infectious,0.75,8.75,1.6,61+,Other,240932,86.48,Surgery,20928,84.66,5.47
+Argentina,2004,Neurological,4.28,9.53,1.59,0-18,Other,121418,96.02,Medication,30844,59.54,5.37
+South Africa,2014,Metabolic,7.81,1.73,6.37,0-18,Other,183214,63.05,Medication,11335,60.13,7.79
+Italy,2010,Infectious,6.08,10,5.51,0-18,Female,443392,87.93,Therapy,8833,77.59,0.19
+Japan,2016,Bacterial,15.95,7.66,3.48,0-18,Female,538277,78.48,Therapy,32362,72.8,2.45
+India,2005,Respiratory,17.15,8.39,6.26,36-60,Female,600465,86.04,Therapy,38818,59.86,6.7
+Saudi Arabia,2024,Viral,9.14,12.39,6.48,61+,Other,661849,93.15,Therapy,14008,61.22,2.06
+Indonesia,2020,Chronic,1.89,8.49,8.79,61+,Other,576031,55.94,Therapy,28806,69.31,0.03
+South Korea,2014,Cardiovascular,10.91,5.22,5.61,36-60,Female,715946,55.45,Medication,27907,93.5,6.38
+India,2008,Neurological,7.48,6.9,2.94,36-60,Female,358234,79.18,Vaccination,11148,65.98,8.93
+Japan,2010,Infectious,1.64,0.95,0.4,36-60,Female,980888,93.52,Surgery,45678,76.71,3.88
+France,2000,Genetic,19.62,5.45,5.12,36-60,Other,382629,83.01,Surgery,7132,56.67,8.94
+Indonesia,2006,Autoimmune,17.76,14.21,9.32,36-60,Female,590011,81.47,Therapy,40517,73.98,4.46
+USA,2001,Cardiovascular,8.38,9.8,9.52,61+,Male,502469,52.39,Vaccination,15459,96.01,8.91
+Canada,2018,Neurological,6.97,7.73,5.31,19-35,Male,945370,51.09,Vaccination,13992,55.72,8.28
+Nigeria,2020,Bacterial,18.91,13.31,1.37,61+,Female,706579,83.69,Vaccination,40849,56.59,0.13
+Brazil,2022,Neurological,9.5,9.25,9.59,0-18,Male,549518,65.28,Vaccination,37728,91.23,4.54
+Saudi Arabia,2004,Autoimmune,13.15,13.4,9.59,0-18,Male,789087,57.59,Medication,31898,73.55,0.46
+Mexico,2014,Chronic,3.05,8.69,7.69,36-60,Other,756716,82.14,Vaccination,11589,83.89,7.25
+Indonesia,2014,Autoimmune,12.14,7.48,3.18,19-35,Other,417779,72.08,Surgery,20518,93.44,6.55
+Mexico,2010,Parasitic,9.1,7.81,7.94,36-60,Female,529628,85.9,Vaccination,49486,53.73,6.83
+Brazil,2012,Neurological,7.99,1.47,2.56,19-35,Male,718125,92.62,Therapy,28827,71.31,4.59
+Australia,2024,Genetic,2.79,12.16,4.59,19-35,Other,912197,77.89,Therapy,40161,64.98,8.54
+Indonesia,2004,Parasitic,0.22,12.91,8.99,36-60,Female,478244,73.26,Therapy,28966,98.71,5.99
+Saudi Arabia,2003,Cardiovascular,13.87,2.13,3.46,61+,Other,513358,53.37,Medication,17796,69.62,0.52
+Japan,2008,Metabolic,13.83,3.71,0.19,36-60,Other,647000,65.08,Vaccination,11474,70.41,8.53
+China,2009,Metabolic,7.34,5.68,1.46,61+,Male,116382,64.65,Vaccination,47010,91.09,9.75
+India,2012,Autoimmune,4.11,7.85,7.35,0-18,Female,198773,55.59,Therapy,9339,70.95,8.13
+Saudi Arabia,2002,Cardiovascular,19.92,8.35,0.93,61+,Female,757194,74.7,Surgery,24074,84,1.37
+Australia,2007,Cardiovascular,9.49,14.78,5.21,36-60,Male,939621,50.35,Surgery,7811,63.5,7.96
+Australia,2014,Viral,14.9,10.95,1.07,19-35,Male,779698,81.52,Surgery,16841,78.59,8.67
+Brazil,2024,Metabolic,12.7,14.71,3.26,61+,Female,420890,87.03,Surgery,650,57.46,0.15
+South Korea,2012,Viral,14.35,12.46,4.56,0-18,Other,565700,95.52,Medication,8994,86.09,8.47
+Saudi Arabia,2008,Metabolic,15.1,10.56,6.05,0-18,Other,608299,77.09,Surgery,47051,55.4,2.07
+France,2015,Parasitic,15.58,8.6,4.73,36-60,Male,143961,59.26,Medication,38794,58.12,5.7
+UK,2009,Infectious,13.78,5.5,6.38,0-18,Female,391975,92.09,Therapy,42108,65.89,3.01
+South Africa,2001,Chronic,12.66,2.94,7.5,61+,Other,621761,71.52,Vaccination,5620,84.7,2.26
+Japan,2005,Respiratory,2.32,14.54,7.25,19-35,Male,533056,57.83,Therapy,5069,87.52,5.89
+Indonesia,2005,Autoimmune,19.53,5.57,2.2,0-18,Female,16667,99.76,Surgery,36443,60.7,8.86
+Italy,2023,Autoimmune,5.55,2.34,0.45,61+,Other,839435,89.46,Medication,16599,79.83,1.81
+France,2020,Viral,16.02,1.29,5.72,61+,Male,593749,92.79,Therapy,7442,78.32,1.92
+France,2020,Autoimmune,16.01,3.82,8.82,0-18,Female,514095,54.77,Medication,44988,78.24,5.5
+Mexico,2018,Chronic,12.29,4.67,2.55,36-60,Male,701609,75.84,Vaccination,18369,65.46,9.27
+India,2005,Cardiovascular,12.72,5.54,8.98,0-18,Male,841252,59.12,Therapy,8696,52.18,4.74
+Italy,2018,Infectious,14.31,0.94,3.7,61+,Female,500654,52.07,Therapy,23470,53.11,5.31
+Indonesia,2005,Autoimmune,3.55,7.62,5.48,19-35,Female,109920,57.34,Surgery,18522,85.24,6.48
+South Africa,2007,Neurological,9.31,7.1,5.38,61+,Male,51730,73.36,Medication,23158,74.71,9.04
+South Korea,2014,Autoimmune,1.76,11.18,0.7,61+,Female,412095,69.11,Vaccination,5012,68.24,2.25
+Russia,2019,Infectious,18.97,11.72,5.99,61+,Female,202691,60.68,Vaccination,47582,72.84,4.73
+USA,2002,Infectious,12.64,7.27,2.3,19-35,Male,985408,82.77,Vaccination,18334,88.13,8.55
+Brazil,2002,Genetic,0.33,1.59,3.03,36-60,Female,162586,52.88,Therapy,2435,58.77,7.18
+Nigeria,2015,Neurological,3.75,13.05,5.04,61+,Female,272219,94.03,Medication,31391,83.56,5.63
+Japan,2007,Viral,1.52,0.25,1.72,36-60,Male,567094,79.95,Medication,7829,73.59,6.88
+UK,2017,Bacterial,14.07,0.61,3.24,61+,Male,10626,98.14,Medication,20263,51.89,2.79
+Argentina,2014,Viral,19.09,0.57,0.37,36-60,Other,487857,99.76,Surgery,40038,53.69,3.01
+France,2005,Infectious,6.76,4.35,1.45,19-35,Other,505838,79.11,Medication,40149,53.63,3.55
+Nigeria,2020,Autoimmune,15.44,2.94,2.37,36-60,Other,261271,72.75,Medication,9703,98.22,3.02
+India,2013,Chronic,17.83,7.75,4.14,19-35,Male,110130,50.73,Vaccination,11797,65.75,0.06
+Nigeria,2010,Genetic,9.6,3.85,7.27,36-60,Other,774468,61.34,Therapy,39575,86.13,4.53
+Brazil,2022,Respiratory,15.12,1.29,2.32,36-60,Male,731934,81.72,Surgery,21539,57.85,4.34
+Saudi Arabia,2004,Bacterial,4.14,8.49,6.02,36-60,Female,744110,99.8,Vaccination,46495,51.97,2.72
+Indonesia,2009,Respiratory,16.43,14.59,4.59,0-18,Other,894518,86,Vaccination,32113,58.52,4.5
+Germany,2006,Parasitic,16.32,12.84,7.18,19-35,Other,754273,91.51,Therapy,47338,84.41,4.1
+Argentina,2007,Infectious,13.8,3.95,7.11,36-60,Other,499771,84.27,Vaccination,23674,97.29,6.3
+USA,2008,Cardiovascular,18.88,14.73,3.5,19-35,Male,126959,93.29,Surgery,32087,77.93,3.07
+France,2000,Chronic,13.46,10.75,3.63,36-60,Other,701034,74.81,Therapy,32675,87.97,6.63
+Australia,2007,Viral,18.12,14.87,6.94,61+,Male,206224,90.7,Medication,49958,59.3,9.08
+Germany,2017,Autoimmune,11.15,3.37,5.4,19-35,Female,733866,93.63,Therapy,43988,77.99,6.54
+UK,2001,Parasitic,15.9,4.89,5.49,0-18,Other,897209,63.33,Medication,22437,65.65,1.31
+Germany,2022,Infectious,8.42,3.03,4.21,19-35,Male,349872,98.93,Medication,47250,93.24,4.62
+Italy,2014,Respiratory,9.95,7.52,2.9,36-60,Male,136925,88.35,Vaccination,45226,75.68,6.75
+Germany,2021,Infectious,7.74,1.8,6.51,61+,Female,795754,56.35,Surgery,2045,68.26,7.32
+China,2021,Neurological,17.63,11.06,3.9,19-35,Other,852484,78.74,Vaccination,21941,86.19,2.92
+UK,2016,Respiratory,13.7,9.6,7.87,19-35,Other,619413,83.04,Therapy,46677,56.55,0.35
+France,2004,Viral,16.62,13.76,0.45,36-60,Other,15944,56.22,Surgery,37593,66.05,9.16
+Australia,2020,Viral,3.7,13.41,8.15,36-60,Other,864254,64.81,Surgery,41831,96.23,5.41
+Brazil,2008,Bacterial,2.6,13.64,1.11,36-60,Male,330501,73.5,Vaccination,5776,85.1,8.35
+Canada,2019,Parasitic,18.24,8.68,5.08,0-18,Male,980768,51.32,Medication,31824,53.6,9.28
+USA,2022,Cardiovascular,11.8,11.78,3.05,61+,Male,149839,76.69,Vaccination,32645,80.59,2.05
+Indonesia,2000,Metabolic,17.93,8.15,1.79,36-60,Male,614307,61.1,Therapy,9881,82.72,5.73
+Germany,2018,Autoimmune,0.98,11.8,8.18,36-60,Male,25715,95.5,Therapy,32209,92.68,6.07
+Russia,2001,Cardiovascular,9.57,6.51,3.91,61+,Other,191852,79.3,Surgery,15020,81.15,2.21
+France,2024,Chronic,15.75,1.32,4.54,36-60,Female,490010,75.11,Therapy,16821,93.72,8.33
+Canada,2011,Metabolic,14.6,0.19,7.13,36-60,Other,741161,84.63,Therapy,7978,52.88,5.36
+Turkey,2018,Genetic,3.15,8.75,1.38,36-60,Other,323467,98.09,Therapy,8375,82.75,0.53
+India,2017,Genetic,4.91,9.52,4.57,0-18,Other,642901,87.02,Vaccination,29598,74.34,8.43
+Mexico,2009,Metabolic,2.05,3.93,5.94,36-60,Female,59251,99.44,Vaccination,44457,77.47,5.56
+Turkey,2022,Neurological,6.65,13.05,9.6,36-60,Male,509170,71.69,Therapy,33883,50.29,1.27
+UK,2004,Respiratory,8.94,10.3,3.19,19-35,Female,922492,87.84,Therapy,17553,80.25,8.79
+India,2014,Infectious,18.4,4.83,4.92,0-18,Other,776951,84.73,Surgery,19224,51.21,5.82
+Brazil,2000,Infectious,5.62,3.38,4.21,19-35,Other,373441,76.48,Vaccination,41170,52.93,7.13
+Argentina,2000,Cardiovascular,4.86,13.77,6.56,36-60,Female,703783,56.1,Vaccination,29986,60.29,2.53
+Turkey,2014,Respiratory,18.82,11.65,1.9,19-35,Other,133104,61.24,Vaccination,41838,50.47,2.78
+UK,2011,Chronic,7.9,8.46,1.56,19-35,Male,269159,95.04,Medication,35868,75.41,2.68
+Brazil,2024,Bacterial,11.3,13.26,6.13,19-35,Male,400271,78.85,Surgery,20403,68.94,7.94
+Brazil,2014,Metabolic,13.06,14.9,3.85,36-60,Female,863259,85.11,Therapy,22556,77.45,9.95
+Indonesia,2010,Bacterial,0.82,0.43,9.93,36-60,Male,703894,95.4,Surgery,39105,63.36,0.17
+Australia,2006,Bacterial,14.83,10.09,4.64,19-35,Female,883662,95.89,Surgery,18446,84.91,2.14
+Canada,2008,Infectious,18.44,8.52,7.76,0-18,Other,144702,50.24,Surgery,13128,80.39,9.11
+Saudi Arabia,2023,Neurological,8.12,2.65,1.34,0-18,Female,413700,68.27,Therapy,33763,92.48,0.96
+Canada,2002,Parasitic,11.43,13.06,4.59,36-60,Female,779856,54.48,Therapy,48344,83.65,0.71
+Turkey,2018,Viral,18.24,8.09,1.8,61+,Female,408285,80.58,Vaccination,23338,52.11,6.28
+South Korea,2021,Respiratory,9.63,3.08,1.6,19-35,Male,934854,99.02,Therapy,9301,56.67,3.31
+South Korea,2003,Cardiovascular,14.37,12.02,2.6,61+,Female,780191,73.67,Therapy,30900,62.98,4.54
+Italy,2006,Metabolic,0.91,14.86,7.76,36-60,Male,896608,78.15,Vaccination,17117,74.81,6.79
+Japan,2000,Cardiovascular,3.14,13.47,4.2,61+,Other,204016,98.11,Surgery,11538,59.38,5.68
+South Africa,2002,Viral,16.81,3.23,7.39,19-35,Female,470955,93.98,Medication,34806,77.65,3.24
+Canada,2012,Bacterial,8.61,2.73,2.26,36-60,Other,949385,52.08,Medication,9703,83.16,4.98
+Indonesia,2009,Metabolic,6.44,8.44,0.86,19-35,Male,687786,60.01,Vaccination,195,89.02,8.81
+Italy,2002,Parasitic,9.87,1.95,3.9,0-18,Female,655401,62.1,Surgery,17711,90.58,2.9
+South Africa,2020,Autoimmune,17.25,7.87,3.66,0-18,Other,148785,56.23,Surgery,7891,51.96,4.05
+Indonesia,2005,Metabolic,14.14,5.89,9.02,36-60,Male,843300,55,Therapy,1073,97.49,9.58
+Indonesia,2021,Autoimmune,2.48,2.57,2.03,0-18,Other,584925,68.79,Medication,10255,80.03,8.2
+Germany,2014,Genetic,2.15,8.94,4.58,0-18,Male,124719,57.84,Medication,24125,56.51,5.02
+Germany,2002,Cardiovascular,7.13,7.71,7.74,36-60,Female,494613,51.17,Medication,46354,95.09,8.58
+India,2024,Infectious,16.01,4.69,8.69,19-35,Male,449513,72.27,Therapy,39467,63.14,6.34
+South Africa,2022,Bacterial,19.97,2.34,0.32,19-35,Other,542641,99.41,Medication,37764,63.48,5.77
+Canada,2016,Chronic,5.54,7.23,3.87,36-60,Male,677602,57.52,Medication,28139,83.67,8.06
+Russia,2017,Respiratory,12.18,0.65,5.87,0-18,Female,760533,88.99,Therapy,2552,81.21,0.31
+France,2013,Chronic,7.45,12.16,0.96,0-18,Male,47328,52.44,Medication,36446,93.76,9.29
+Argentina,2019,Genetic,1.29,9.2,4.44,61+,Other,614812,68.07,Medication,29674,68.39,3.8
+Japan,2005,Parasitic,18.53,6.47,5.04,36-60,Male,799027,70.03,Therapy,21856,75.45,8.41
+Argentina,2005,Neurological,5.57,5.16,0.88,19-35,Female,245019,62.05,Surgery,21333,81.7,8.55
+Germany,2005,Infectious,13.01,9.09,1.2,61+,Female,92097,58.76,Surgery,33297,65.26,7.14
+Mexico,2022,Neurological,10.89,13.71,4.62,0-18,Female,192860,98.57,Vaccination,43861,53.43,9.39
+Japan,2010,Chronic,10.56,13.83,5.83,36-60,Female,864603,86,Therapy,12591,85.34,2.64
+Germany,2018,Chronic,15.37,5.01,9.76,61+,Female,416319,58.14,Therapy,42332,84.96,1.34
+Germany,2016,Bacterial,10.67,3.67,5.85,61+,Other,799004,60.71,Surgery,32730,51.71,1.31
+South Africa,2010,Parasitic,5.43,5.99,3.15,0-18,Female,247824,75.19,Vaccination,22930,62.16,7.74
+Brazil,2019,Autoimmune,15.65,2.55,7.44,0-18,Other,941684,52.06,Surgery,19989,89.08,0.4
+Saudi Arabia,2002,Autoimmune,18.06,3.95,1.25,36-60,Male,905138,90.84,Vaccination,10090,51.28,9.37
+USA,2019,Cardiovascular,10.36,5.64,1.54,36-60,Other,520943,89.88,Vaccination,5810,58.77,9.1
+UK,2018,Infectious,1.95,3.78,2.81,0-18,Male,827125,81.86,Therapy,28784,96.96,4.03
+China,2005,Cardiovascular,14.82,6.72,4.64,0-18,Other,57799,52.96,Therapy,40429,60.29,9.71
+Brazil,2013,Infectious,7.13,13.81,7.19,0-18,Other,493680,61,Medication,46186,66.91,9.03
+Brazil,2022,Bacterial,8.95,4.13,0.24,19-35,Male,303517,59.23,Medication,18869,78.06,7.52
+Russia,2002,Bacterial,14.31,6.86,9.71,0-18,Male,874491,59.76,Vaccination,47260,87.04,4.96
+Canada,2011,Metabolic,1.18,13.12,1.65,19-35,Male,556700,74.68,Medication,29154,79.12,6.49
+Turkey,2013,Metabolic,14.94,7.76,4.11,36-60,Other,597321,75.54,Therapy,12347,78.42,1.96
+Saudi Arabia,2006,Bacterial,9.99,12.81,8.48,0-18,Other,862608,56.29,Medication,43227,96.76,2.1
+Russia,2002,Respiratory,13.02,14.89,3.98,36-60,Male,482042,77.59,Surgery,29381,97.08,2.84
+UK,2007,Bacterial,17.73,2.49,8.39,0-18,Male,195702,58.78,Vaccination,30445,93.03,3.5
+Mexico,2004,Viral,6.13,4.66,6.1,36-60,Female,80676,60.89,Medication,11898,63.14,6.91
+Canada,2023,Cardiovascular,16.73,8.97,7.67,0-18,Female,718094,87.45,Medication,29829,64.75,9.96
+Japan,2011,Genetic,3.75,4.12,0.5,0-18,Male,505235,75.07,Surgery,36055,52.87,9.6
+Argentina,2001,Neurological,10.65,11,2.62,61+,Male,408148,58.68,Vaccination,6387,68.18,8.47
+UK,2022,Autoimmune,19.91,8.03,9.6,36-60,Male,784892,72.46,Vaccination,40429,94.85,9.3
+China,2013,Bacterial,17.23,7.14,8.85,36-60,Male,968496,60,Medication,41737,77.99,2.44
+Nigeria,2001,Respiratory,2.65,1.96,4.88,61+,Male,595413,69.65,Vaccination,5223,98.82,4.4
+Germany,2003,Autoimmune,16.59,4.79,2.61,61+,Female,117862,99.91,Therapy,8156,93.93,7.34
+Japan,2011,Metabolic,6.31,8.75,6.67,0-18,Male,333244,68.92,Therapy,13098,67.48,7.92
+Saudi Arabia,2023,Parasitic,5.75,14.27,5.05,0-18,Male,805599,51.51,Therapy,36521,71.75,9.22
+UK,2020,Chronic,7.01,11.18,4.61,36-60,Other,116279,74.66,Surgery,7881,54.38,9.04
+UK,2019,Cardiovascular,2.87,6.11,6.61,36-60,Female,79601,60.79,Medication,34861,75.14,8.53
+France,2015,Cardiovascular,12.55,7.66,3.68,19-35,Female,408058,62.95,Therapy,25437,53.4,4.04
+China,2016,Parasitic,7.37,12.28,1.75,36-60,Male,368664,52.17,Therapy,27591,84.44,7.34
+Indonesia,2011,Viral,14.12,0.6,0.35,36-60,Female,197846,52.7,Therapy,31075,92.35,6.09
+Australia,2018,Autoimmune,10.82,4.64,6.29,0-18,Other,462151,80.56,Vaccination,40220,68.71,9.91
+Turkey,2009,Autoimmune,8.94,12.24,8.43,61+,Female,244014,55.26,Vaccination,13217,77.27,6.36
+Argentina,2017,Cardiovascular,9.76,2.98,7.9,0-18,Female,102201,71.89,Surgery,27376,74.35,9.56
+Argentina,2008,Respiratory,8.23,9.33,3.52,19-35,Male,998313,62.42,Therapy,3561,63.94,1.56
+Australia,2012,Neurological,6.11,13.52,4.83,0-18,Other,674468,53,Surgery,21210,53.68,4.2
+Argentina,2018,Genetic,1.74,4.3,3.9,0-18,Male,875980,93.82,Surgery,5236,55.27,5.03
+Saudi Arabia,2014,Neurological,7.06,1.04,3.75,61+,Male,509395,55.37,Therapy,39000,54.54,7.75
+China,2019,Metabolic,6.19,10.04,1.24,19-35,Female,693766,82.03,Vaccination,23722,51.51,6.38
+Indonesia,2013,Infectious,8.71,11.15,6.82,0-18,Female,653700,67.61,Medication,35326,80.73,7.6
+Nigeria,2024,Bacterial,16.13,12.82,5,61+,Male,842486,51.52,Medication,12674,59.1,1.7
+Germany,2020,Autoimmune,2.01,12.76,3.68,36-60,Female,414682,77.51,Therapy,39102,59.44,4.12
+Germany,2013,Bacterial,11.84,10.35,0.3,36-60,Female,538243,87.69,Vaccination,39923,62.68,1.55
+UK,2020,Parasitic,19.73,5.72,1.48,61+,Female,680979,60.34,Vaccination,18992,65.49,5.94
+Russia,2008,Respiratory,3.63,10.1,1.94,0-18,Male,333792,80.07,Medication,10305,59.27,6.31
+Saudi Arabia,2005,Autoimmune,5.74,3.29,0.46,61+,Other,635283,93.73,Vaccination,43112,94.64,9.55
+India,2018,Chronic,16.78,3.29,4.01,19-35,Other,628400,69.27,Medication,11430,96.15,7.55
+Brazil,2022,Viral,6.26,0.31,5.66,36-60,Male,505634,64.86,Therapy,49555,93.78,2.82
+Turkey,2008,Bacterial,3.99,2.79,0.55,19-35,Male,399339,81.58,Medication,34345,96.24,8.47
+UK,2024,Cardiovascular,14.96,4.76,2.49,19-35,Male,517524,93.99,Medication,15082,61.76,0.59
+Italy,2008,Neurological,18.23,11.27,2.98,19-35,Female,446302,92.41,Vaccination,36869,93.63,6.61
+South Africa,2020,Metabolic,10.25,13.73,1.29,0-18,Other,93749,61.03,Therapy,44091,79.14,5.93
+Japan,2012,Metabolic,7.59,7.26,1.46,61+,Male,328970,52.37,Vaccination,32447,64.1,5.91
+Saudi Arabia,2000,Autoimmune,1.6,5.25,4,0-18,Other,902073,64.69,Surgery,6268,71.9,2.29
+Argentina,2022,Bacterial,4.74,11.58,0.22,36-60,Female,607792,74.47,Surgery,32844,53.74,3.26
+Russia,2013,Cardiovascular,18.17,12.9,5.84,19-35,Female,506444,98.12,Medication,43654,58.99,5.06
+South Korea,2000,Parasitic,5.06,14.59,4.82,19-35,Female,274585,57.31,Surgery,39900,62.83,7.27
+India,2015,Bacterial,18.4,14.82,8.09,36-60,Male,421037,59.38,Therapy,14455,80.39,2.39
+Nigeria,2022,Infectious,18.29,7.22,3.45,0-18,Male,933548,78.68,Surgery,36229,76.05,4.53
+Saudi Arabia,2007,Autoimmune,2.88,11.6,7.64,61+,Female,642241,53.58,Surgery,37392,96.99,6.45
+South Korea,2023,Bacterial,19.55,3.32,9.63,61+,Female,156444,77.02,Therapy,45023,94.37,9.35
+Germany,2001,Viral,6.29,0.66,8.19,61+,Female,531007,57.31,Vaccination,34739,52.65,2.29
+Argentina,2011,Bacterial,19.42,1.28,4.63,61+,Other,812951,77.91,Surgery,24514,97.27,8.45
+South Africa,2011,Neurological,19.41,13.13,2.53,0-18,Other,286167,69.14,Surgery,13061,60.44,4.6
+India,2001,Genetic,7.66,7.85,5.11,19-35,Male,907430,55.19,Medication,2977,77.53,9.15
+Japan,2010,Bacterial,18.83,1.83,1.89,0-18,Male,41909,80.05,Vaccination,29602,61.69,5.74
+Turkey,2005,Viral,10.31,6.85,4.97,19-35,Female,785885,71.89,Surgery,8126,51.35,9.28
+Russia,2014,Infectious,11.11,6.5,4.72,61+,Male,143452,54.16,Vaccination,35363,77.16,5.51
+Turkey,2000,Infectious,11.11,11.28,3.93,0-18,Other,562280,56.39,Vaccination,43899,56.27,7.02
+Australia,2009,Chronic,17.2,9.33,0.93,19-35,Male,382033,71.15,Therapy,7408,71.96,8.03
+UK,2010,Viral,8.25,12.58,3.71,19-35,Other,675496,74.48,Vaccination,22844,57.49,2.23
+South Korea,2022,Autoimmune,11.55,9.25,4.31,0-18,Male,407221,97.45,Surgery,12089,88.54,3.56
+India,2017,Viral,13.88,6.23,5.16,36-60,Other,265312,99.68,Medication,30939,54.42,8.49
+Turkey,2023,Infectious,0.55,5.18,7.77,0-18,Female,235388,82.45,Therapy,13160,98.94,7.32
+Russia,2019,Bacterial,1.03,8.26,6.17,61+,Other,793789,85.27,Medication,8906,66.71,4.9
+UK,2000,Infectious,15.69,14.45,4.75,61+,Female,906787,58.65,Medication,20051,84.61,1.34
+USA,2019,Respiratory,7.27,7.11,9.48,0-18,Other,696180,87.68,Therapy,28926,89.78,5.87
+Italy,2019,Cardiovascular,5.97,4.65,5.35,0-18,Male,101330,90.12,Therapy,34838,70.68,2.35
+Mexico,2008,Viral,14.43,14.96,6.21,61+,Male,355421,62.45,Vaccination,46377,83.16,7.64
+Canada,2014,Autoimmune,8.22,12.23,9.53,0-18,Female,423690,80.91,Therapy,44102,86.99,5.16
+South Africa,2016,Cardiovascular,11.52,2.94,6.18,19-35,Male,266560,59.58,Therapy,16039,74.9,3.89
+Indonesia,2013,Neurological,8.56,8.17,4,61+,Female,718269,80.55,Medication,19963,94.26,1.92
+USA,2016,Neurological,14.8,14.03,7.85,0-18,Female,157140,76.7,Surgery,22683,72.08,3.32
+France,2023,Cardiovascular,7.06,5.36,0.85,61+,Male,373931,60.81,Surgery,7928,66.94,7.92
+Russia,2013,Autoimmune,4.33,7.71,7.05,61+,Other,311127,96.16,Medication,9837,69.41,3.07
+UK,2013,Respiratory,19.69,5.1,3.18,61+,Other,256650,60.23,Therapy,45491,70.02,3.32
+South Korea,2012,Bacterial,12.7,13.73,9.57,36-60,Other,334517,61.35,Surgery,16126,56.76,2.02
+Indonesia,2017,Chronic,4.31,1.93,1.47,36-60,Male,556746,78.95,Surgery,20591,61.49,7.57
+Japan,2024,Infectious,14.77,14.43,1.35,0-18,Male,667317,67.93,Therapy,31432,94.11,5.55
+Japan,2000,Bacterial,11.53,11.47,7.69,0-18,Other,290756,91.98,Vaccination,40724,95.75,4.92
+UK,2009,Cardiovascular,15.45,7.26,1.41,36-60,Male,854602,89.66,Therapy,37653,64.21,9.73
+Nigeria,2018,Metabolic,11.44,0.81,5.38,36-60,Other,643643,63.21,Medication,344,69.6,7.06
+South Korea,2013,Genetic,19.06,2.51,2.43,61+,Male,58475,67.98,Therapy,40700,69.17,2.15
+Turkey,2002,Chronic,3.32,14.79,2.91,36-60,Other,564523,61.28,Therapy,39307,61.33,6.07
+Russia,2022,Cardiovascular,16.73,4.66,6.08,19-35,Other,156478,68.75,Therapy,27767,59.14,3.48
+Germany,2018,Autoimmune,9.07,6.52,8.42,0-18,Other,121250,74.93,Medication,31664,97.19,4.44
+Australia,2005,Chronic,19.98,9.56,2.22,36-60,Male,53022,52.1,Medication,3935,97.96,8.72
+India,2005,Infectious,18.86,2.25,4.38,36-60,Female,823359,58.02,Surgery,15174,59.73,0.78
+South Africa,2003,Neurological,16.01,4.38,2.86,61+,Other,35305,71.48,Vaccination,23426,62.2,2.83
+India,2020,Infectious,2.86,4.53,4.42,36-60,Other,357831,96.55,Therapy,41500,71.21,3.21
+Argentina,2007,Metabolic,8.73,0.64,5.62,36-60,Male,108458,78.73,Therapy,12545,73.98,1.25
+Canada,2010,Neurological,2.27,2.67,0.75,61+,Other,876688,81.61,Surgery,34589,59.12,5.66
+Italy,2011,Neurological,14.07,10.43,4.45,36-60,Male,980736,90.03,Medication,23566,90.08,6.09
+France,2022,Neurological,19.04,12.41,1.38,19-35,Male,74729,75.66,Vaccination,16887,60.5,8.24
+China,2019,Viral,14.36,1.76,3.81,36-60,Other,19598,75.71,Surgery,15956,58.24,1.77
+India,2011,Respiratory,10.99,10.6,6.78,19-35,Female,48182,72.84,Surgery,30635,53.72,7.51
+Canada,2010,Viral,14.37,6.51,5.18,0-18,Male,526371,65.06,Medication,49870,96.6,2.53
+Australia,2012,Neurological,14.65,5.93,5.18,61+,Other,827146,66.51,Vaccination,16122,97.76,2.84
+South Korea,2020,Metabolic,15.58,5.79,9.78,0-18,Other,950060,66.37,Vaccination,21040,51.81,0.25
+Nigeria,2015,Metabolic,8.56,14.86,2.84,61+,Female,876200,84.62,Therapy,32221,80.27,0.39
+South Korea,2017,Parasitic,5.92,8,2.12,0-18,Male,158376,91.93,Surgery,7272,97.14,7.14
+Brazil,2015,Metabolic,5.27,5.56,8.19,36-60,Male,492249,88.97,Therapy,7665,70.78,8.12
+Brazil,2022,Genetic,17.84,4.88,7.57,0-18,Male,256524,55.41,Therapy,21065,60.58,5.97
+Germany,2019,Cardiovascular,19.35,12.71,7.71,61+,Other,815795,93.86,Therapy,34887,56.22,1.03
+India,2010,Parasitic,1.83,4.04,3.52,0-18,Male,652936,69.86,Surgery,34514,93.6,9.56
+Brazil,2005,Cardiovascular,8.23,13.13,3.98,36-60,Female,48822,52.93,Therapy,43700,94.45,5
+Indonesia,2020,Neurological,14.62,10.04,0.63,36-60,Male,974554,80.28,Surgery,17661,64.09,4.99
+France,2007,Metabolic,9.94,13.22,0.68,61+,Female,224970,96.15,Therapy,48343,98.29,5.52
+Indonesia,2008,Cardiovascular,0.79,0.42,2.47,19-35,Other,268030,74.55,Therapy,4422,80.07,8.05
+UK,2016,Viral,0.69,2.74,6.19,0-18,Male,836072,57.61,Therapy,2167,57.51,3.87
+India,2013,Chronic,17.97,4.55,8.41,0-18,Male,309708,89.58,Therapy,49931,77.69,7.73
+Indonesia,2006,Metabolic,6.2,2.4,6.86,19-35,Female,668292,54.44,Vaccination,43496,93.83,6.67
+UK,2005,Chronic,2.04,8.94,8.62,36-60,Male,367230,84.95,Vaccination,49231,54.2,6.81
+South Africa,2015,Chronic,7.55,13.75,0.54,0-18,Female,331895,65.74,Therapy,38554,91.37,3.87
+China,2002,Metabolic,6.8,10.97,3.38,36-60,Female,371387,76.49,Surgery,12069,88.4,6.37
+Australia,2018,Parasitic,6.12,11.3,7.3,36-60,Female,210995,69.41,Vaccination,18416,84.49,7.85
+Germany,2024,Chronic,2.6,5.05,1.12,61+,Male,535278,71.02,Surgery,41309,95.65,0.51
+Nigeria,2001,Infectious,19.45,5.5,1.59,36-60,Male,161287,89.39,Therapy,2749,80.56,9.63
+Australia,2002,Metabolic,19.83,1.59,8.99,0-18,Other,395699,92.12,Surgery,15329,73.87,2.64
+India,2016,Genetic,10.18,8.98,0.96,61+,Male,930354,90.86,Medication,35529,74.47,8.2
+China,2004,Viral,15.05,3.06,8.39,0-18,Male,109498,56.77,Therapy,5047,98.01,9.86
+South Africa,2003,Viral,11.67,1.25,8.99,19-35,Male,15723,95.01,Medication,41617,60,9.97
+India,2011,Infectious,15.02,11.55,8.12,19-35,Other,373550,76.46,Therapy,39593,52.92,0.82
+Indonesia,2012,Neurological,12.01,10.21,9.43,0-18,Other,834248,96.83,Therapy,34289,72.95,8.96
+Saudi Arabia,2000,Cardiovascular,13.03,12.39,5.14,0-18,Female,944524,90.25,Therapy,28838,92.39,1.91
+Japan,2019,Chronic,13.41,13.2,9.71,61+,Male,475185,55.4,Vaccination,21931,68.94,9.65
+Russia,2015,Bacterial,12,6.28,1.32,61+,Other,654696,67.43,Medication,22260,67.06,7.15
+Australia,2019,Bacterial,8.82,8.25,8.69,0-18,Other,286029,76.3,Therapy,25445,59.92,7.75
+Australia,2010,Metabolic,5.46,11.88,7.87,0-18,Other,17321,73.36,Therapy,38067,60.58,7.65
+Saudi Arabia,2010,Genetic,19.47,14.21,5.53,36-60,Male,901255,70.93,Therapy,38904,82.36,9.26
+Argentina,2007,Bacterial,3.73,2.05,5.29,0-18,Male,256725,57.01,Medication,47887,60.05,6.51
+Brazil,2002,Neurological,19.75,10.87,4.9,19-35,Female,824432,84.07,Vaccination,6190,69.14,3.31
+South Korea,2015,Viral,10.13,14.24,7.27,61+,Female,370763,81.74,Surgery,524,69.89,4.58
+Nigeria,2015,Cardiovascular,12.5,11.41,6.24,0-18,Female,368445,55.93,Medication,322,82.69,1.1
+UK,2012,Bacterial,6.3,12.23,8.42,19-35,Female,733285,81.65,Surgery,1029,77.71,6.87
+Indonesia,2018,Viral,16.11,7.71,4.1,36-60,Other,719785,69.51,Therapy,4151,75.47,7.7
+Nigeria,2023,Metabolic,1.95,9.93,1.62,19-35,Male,833203,74.99,Therapy,29876,61.77,0.01
+UK,2021,Infectious,12.08,10.09,1.14,19-35,Female,884234,94.15,Surgery,13217,80.27,5.78
+Brazil,2013,Cardiovascular,4.64,13.08,0.72,19-35,Female,152422,56.02,Surgery,23903,51.11,4.69
+Saudi Arabia,2015,Cardiovascular,1.42,6.82,9.23,61+,Female,150471,68.67,Therapy,7726,94.91,8.1
+China,2002,Metabolic,16.56,12.14,5.25,61+,Female,883797,99.49,Therapy,18533,58,6.86
+Indonesia,2005,Neurological,4.31,11.47,2.45,0-18,Female,124615,54.63,Therapy,14553,59.93,9.31
+India,2013,Autoimmune,16.6,11.5,4.44,36-60,Other,498954,69.93,Vaccination,21654,89.74,6.61
+Germany,2019,Chronic,4.17,5.31,6.46,36-60,Other,855790,88.37,Therapy,24630,80.8,6.72
+Saudi Arabia,2005,Metabolic,14.5,0.95,6.76,19-35,Female,151217,84.11,Surgery,21771,64.12,4.96
+Indonesia,2001,Viral,4.29,4.38,1.11,19-35,Female,204117,93.35,Vaccination,25175,97.29,0.89
+Indonesia,2010,Neurological,17.15,0.74,5.43,0-18,Male,688053,85.51,Therapy,30525,81.61,4.16
+South Africa,2002,Infectious,6.07,3.29,8.67,0-18,Female,436000,77.85,Surgery,17520,52.62,3.76
+Brazil,2001,Metabolic,3.52,13.88,1.8,61+,Other,546170,57.17,Therapy,1792,78.22,5.23
+Argentina,2019,Viral,2.01,4.54,6,19-35,Other,943263,95.97,Therapy,38328,80.35,3.41
+South Africa,2003,Infectious,16.2,9.21,7.98,0-18,Other,993467,68.11,Therapy,37478,97.33,9.14
+Indonesia,2016,Neurological,14.69,13.84,5.87,36-60,Female,29276,59.36,Vaccination,1774,87.9,8.26
+Nigeria,2015,Parasitic,10.5,2.13,4.33,61+,Male,789758,85.24,Therapy,9271,54.51,6.99
+UK,2024,Respiratory,15.79,5.3,2.95,19-35,Male,734582,77.02,Surgery,35605,67.23,4.17
+South Africa,2010,Bacterial,15.42,8.5,7.53,19-35,Other,756717,70.88,Surgery,39752,86.29,8.91
+Canada,2021,Bacterial,12.96,10.17,9.3,19-35,Male,823899,70.38,Therapy,2948,59.57,0.4
+Argentina,2003,Bacterial,2.05,4.47,7.45,36-60,Male,682308,93.84,Medication,9095,53.56,9.14
+South Korea,2000,Metabolic,4.73,14.28,7.64,36-60,Male,492393,97.59,Medication,47922,95.28,6.03
+Canada,2022,Neurological,16.8,5.43,5.38,0-18,Female,521105,76.08,Vaccination,7805,67.53,2.4
+Argentina,2004,Viral,17.4,7.78,0.38,36-60,Other,980911,71.58,Medication,46039,70.84,1.72
+Italy,2004,Bacterial,6.96,8.41,7.01,36-60,Female,920507,78.06,Surgery,24390,71.38,7.85
+USA,2020,Parasitic,18.4,0.35,9.74,61+,Male,206560,75.96,Vaccination,47340,74.75,0.82
+Nigeria,2024,Viral,16.21,2.77,2.93,36-60,Female,867980,57.94,Vaccination,14395,63.28,7.61
+Brazil,2002,Genetic,9.48,0.26,1.53,19-35,Male,484527,60.4,Vaccination,28295,80.3,8.53
+Mexico,2007,Viral,4.61,2.26,5.6,19-35,Male,37027,64.57,Therapy,32343,70.62,6.87
+Japan,2019,Viral,19.36,10.62,9.03,36-60,Male,875202,65.13,Vaccination,49394,92.42,8.51
+Turkey,2004,Infectious,5.53,7.08,1.71,0-18,Male,224423,88.59,Surgery,4875,91.81,5.93
+Italy,2017,Cardiovascular,8.28,1.82,6.26,36-60,Female,223982,70.89,Therapy,48955,83.72,2.59
+USA,2007,Metabolic,13.19,6.81,9.09,0-18,Male,401363,55.38,Therapy,12044,88.87,2.93
+India,2018,Infectious,2.91,13.71,5.16,36-60,Male,624096,65.07,Therapy,36377,51.39,5.1
+France,2011,Metabolic,19.11,1.04,6.45,36-60,Female,248223,92.98,Medication,31599,60.61,2.73
+China,2020,Viral,2.62,11.51,2.98,19-35,Female,140732,88.23,Vaccination,27140,78.36,5.74
+Australia,2010,Bacterial,15.22,4.81,1.37,61+,Female,451151,88.87,Medication,11537,86.65,0.51
+Saudi Arabia,2018,Genetic,17.25,7.68,1.42,61+,Other,648244,59.77,Therapy,43174,71.62,7.94
+South Korea,2001,Genetic,17.05,1.12,1.04,0-18,Male,799148,96.49,Vaccination,19627,60.45,3.42
+UK,2008,Parasitic,16.97,13.04,0.33,61+,Female,404199,71.86,Therapy,22540,54.74,4.01
+South Korea,2009,Cardiovascular,5.53,14.64,9.98,19-35,Other,86098,91.6,Therapy,330,96.21,0.52
+South Korea,2007,Viral,18.35,9.19,5.51,19-35,Male,837740,92.39,Medication,5256,54.17,1.24
+Turkey,2000,Bacterial,15.58,10.79,9.07,36-60,Other,763680,56.88,Therapy,26871,84.96,7.8
+Canada,2004,Bacterial,11.41,11.83,2.36,36-60,Other,441598,89.59,Therapy,11184,58.75,3.43
+Canada,2019,Cardiovascular,8.62,7.46,2.31,61+,Other,145837,65.51,Surgery,39647,60.5,7.95
+Turkey,2011,Bacterial,1.6,10.64,9.54,61+,Other,580386,68.71,Surgery,41903,57.88,5
+India,2022,Respiratory,9.66,5.31,9.58,61+,Male,406253,73.04,Vaccination,32393,62.07,9.72
+Indonesia,2006,Autoimmune,5.57,9.56,9.86,36-60,Female,563957,88.32,Vaccination,38438,59.72,0.41
+Australia,2013,Cardiovascular,10.36,3.66,9.95,0-18,Male,722048,94.23,Vaccination,13441,79.19,3.91
+South Africa,2023,Cardiovascular,1.52,8.17,7.03,61+,Female,582088,94.39,Vaccination,31481,57.19,6.06
+Mexico,2016,Respiratory,5.19,13.83,5.67,36-60,Male,301969,53.03,Surgery,39372,77.88,3.67
+Italy,2006,Viral,19.45,2.32,5.12,61+,Other,484776,70.64,Medication,21961,75.57,1.1
+USA,2007,Autoimmune,0.71,8.43,8.33,36-60,Female,361093,94.36,Surgery,38614,97.64,5.42
+USA,2010,Respiratory,11.75,1.11,4.72,36-60,Other,376415,95.86,Therapy,28700,91.99,9
+Saudi Arabia,2008,Parasitic,19.73,5.72,1.67,61+,Female,59175,62,Therapy,6862,74.59,2.04
+China,2011,Neurological,12.83,9.95,7.04,19-35,Other,827604,56.31,Surgery,42511,89.74,9.06
+Canada,2014,Chronic,10.42,3.62,5.96,36-60,Other,659144,89.82,Vaccination,38262,97.61,2.87
+USA,2021,Bacterial,0.42,1.58,7.45,36-60,Other,511296,84.07,Therapy,7716,95.79,0.29
+Russia,2009,Genetic,3.82,5.91,6.13,36-60,Female,991599,93.08,Therapy,21106,56.65,9.05
+Russia,2011,Neurological,1.33,1.18,0.52,36-60,Male,241942,93.66,Medication,44683,74.1,1.82
+Italy,2021,Bacterial,15.42,13.7,6.65,0-18,Other,322062,87.91,Vaccination,2323,96.96,0.98
+Germany,2007,Infectious,18.68,4.82,2.46,19-35,Male,882446,87.79,Therapy,19849,54.24,2.3
+Brazil,2007,Parasitic,10.46,14.96,1.87,19-35,Female,252914,72.92,Vaccination,48724,65.24,3.82
+Nigeria,2004,Respiratory,4.86,2.72,9.34,36-60,Other,507614,50.51,Medication,15563,52.76,4.99
+Indonesia,2024,Bacterial,3.25,11.43,5.69,36-60,Female,938134,62.27,Surgery,11287,79.92,6.19
+Russia,2012,Viral,11.46,13.96,0.32,61+,Male,3062,98.41,Therapy,1713,69.84,3.51
+South Korea,2011,Respiratory,11.26,8.88,3.97,0-18,Male,634981,91.16,Therapy,8014,58.44,3.76
+Mexico,2009,Genetic,14.24,0.87,0.4,61+,Female,994017,54.9,Therapy,25682,54.34,3.11
+South Africa,2001,Chronic,14.3,13.71,2.03,19-35,Male,699578,69.12,Therapy,1601,78.96,5.27
+Argentina,2004,Neurological,2.47,11.18,1.36,36-60,Female,47600,64.69,Therapy,29676,50.11,6.08
+South Africa,2003,Parasitic,10.76,3.83,2.15,19-35,Female,395804,93.2,Vaccination,17781,97.23,3.97
+Japan,2013,Autoimmune,2.33,7.71,5.91,19-35,Other,502051,67.23,Therapy,25684,97.47,5.75
+Brazil,2018,Cardiovascular,4.43,4.98,3.61,61+,Female,983107,80.5,Medication,21201,81.41,9.64
+Saudi Arabia,2021,Metabolic,9.16,3.33,0.69,0-18,Female,922485,66.31,Therapy,20394,77.17,3.13
+USA,2020,Metabolic,1.79,6.89,6.44,19-35,Female,804321,75.87,Vaccination,49936,55.23,9.8
+South Africa,2002,Bacterial,12.54,10.98,5.78,61+,Male,701376,61.71,Medication,36242,94.79,1.05
+Germany,2003,Parasitic,16.37,9.52,5.02,19-35,Male,434862,72.61,Medication,14388,63.81,3.28
+Indonesia,2008,Metabolic,6.56,9.01,9.77,61+,Female,39391,51.9,Surgery,23946,88.45,1.79
+South Korea,2003,Infectious,13.55,2.97,7.24,0-18,Female,511324,91.57,Surgery,41910,93.6,4.42
+Nigeria,2016,Viral,14.8,7.17,9.15,19-35,Female,196004,99.57,Therapy,34962,98.95,2.74
+Italy,2023,Genetic,5.83,12.81,5.14,0-18,Female,124710,85.81,Therapy,31135,83.75,2.41
+Argentina,2000,Autoimmune,19.42,10.09,5.62,0-18,Other,215789,61.25,Therapy,24943,73.44,2.08
+Saudi Arabia,2018,Respiratory,19.61,0.72,2.37,0-18,Male,809469,98.63,Therapy,15422,79.1,1.4
+India,2005,Viral,11.67,1.93,3.11,61+,Other,996897,66.03,Therapy,23340,68.61,4.84
+China,2012,Genetic,7,13.32,5.71,61+,Female,532759,93.8,Surgery,17360,68.89,7.88
+South Korea,2020,Chronic,0.63,10.51,0.87,61+,Female,425518,88.83,Therapy,19807,60.1,8.31
+Canada,2018,Chronic,16.42,3.41,7.48,36-60,Female,955473,53.11,Therapy,37492,51.76,4.72
+Argentina,2001,Chronic,7.29,12.24,9.06,36-60,Other,454403,52.94,Therapy,40857,95.45,7.66
+Nigeria,2013,Neurological,19.32,13.5,0.95,61+,Female,920304,56.47,Surgery,22921,57.05,6.95
+Russia,2004,Parasitic,16.45,14.12,9.94,0-18,Other,617098,66.42,Vaccination,16448,50.51,4.72
+Nigeria,2017,Bacterial,12.6,7.49,0.96,36-60,Male,34605,64.13,Surgery,9459,78.11,3.11
+USA,2009,Genetic,3.55,5.72,7.65,0-18,Male,641109,51.35,Medication,6566,88.18,0.39
+Brazil,2002,Genetic,6.51,10.93,3.46,0-18,Female,202916,92.32,Vaccination,40197,74.01,4.06
+France,2001,Chronic,1.4,4.26,1.63,0-18,Female,624943,87.79,Vaccination,8812,95.66,0.35
+Brazil,2010,Metabolic,6.41,11.32,0.99,61+,Female,998728,87.33,Vaccination,42621,74.38,9.97
+Canada,2004,Cardiovascular,7.15,5.48,9.83,19-35,Female,624680,51.79,Therapy,47925,89.98,7.26
+China,2020,Viral,2.94,10.78,4.42,0-18,Male,434445,93.03,Vaccination,14592,76.11,9.22
+Brazil,2017,Bacterial,7.17,4.44,1.22,19-35,Other,232007,61.97,Surgery,9964,54.53,9.59
+USA,2000,Metabolic,7.11,6.3,9.61,19-35,Other,307942,92.51,Surgery,31355,53.71,2.38
+Russia,2005,Genetic,12.47,9.57,0.95,36-60,Male,8950,95.35,Medication,32936,77.42,4.82
+China,2020,Metabolic,7.18,1.17,1.31,0-18,Male,66209,53.42,Medication,21755,89.87,8.35
+South Africa,2021,Genetic,3.02,2.83,5.52,0-18,Male,541943,69.57,Therapy,11794,82.42,2.26
+Indonesia,2015,Neurological,14.3,5.89,3.26,19-35,Male,882494,53.38,Medication,4704,82.57,7.39
+Brazil,2004,Parasitic,16.53,14.5,8.91,19-35,Other,861609,88.6,Medication,15826,98.38,5.48
+Turkey,2006,Cardiovascular,19.79,7.23,9.08,36-60,Female,470008,94.92,Surgery,43965,85.53,1.09
+Mexico,2011,Chronic,16.65,0.47,3.14,61+,Other,969945,67.63,Surgery,36633,97,5.48
+Argentina,2021,Viral,9.45,11.5,5.27,0-18,Other,547603,71.57,Medication,49493,86.25,8.63
+Saudi Arabia,2022,Viral,11.87,13.66,6.55,19-35,Male,312950,67.76,Medication,2505,84.2,4.02
+Nigeria,2004,Bacterial,11.71,6.4,5.63,61+,Other,36402,86.05,Vaccination,5529,59.31,7.39
+Russia,2021,Genetic,11.73,0.18,2.66,36-60,Male,85382,50.81,Surgery,49372,66.31,7.07
+Japan,2007,Genetic,1.23,1.92,1.28,0-18,Female,903936,56.08,Therapy,26833,51.72,2.99
+Saudi Arabia,2021,Respiratory,16.17,8.91,4.58,61+,Female,948481,81.87,Surgery,42823,98.76,2.59
+Mexico,2019,Metabolic,2.11,6,4.28,19-35,Female,169115,64.29,Medication,46650,89.74,6.49
+France,2014,Genetic,4.37,10.36,1.63,19-35,Other,221470,82.71,Therapy,43088,91.43,4.61
+USA,2013,Bacterial,13.26,9.48,5.63,36-60,Other,776469,88.07,Medication,49441,76.81,4.61
+UK,2015,Bacterial,7.42,10.64,6.19,61+,Other,642560,50.51,Therapy,36131,61.01,4.8
+UK,2000,Neurological,10.98,1.33,5.07,36-60,Other,320551,54.32,Medication,8589,68.98,2.1
+Russia,2021,Parasitic,0.24,0.29,6.53,61+,Female,921260,97.06,Therapy,8378,97,5.23
+Indonesia,2016,Parasitic,8.64,10.33,6.66,0-18,Other,356686,86.75,Surgery,39721,97.14,4.88
+Russia,2023,Infectious,3.32,5.61,9.22,61+,Male,749645,84.09,Surgery,41521,51.52,0.64
+France,2003,Viral,15.02,5.33,2.28,19-35,Male,135476,81.26,Vaccination,19787,52.1,0.73
+China,2014,Parasitic,7.88,0.97,9.04,0-18,Other,386848,82.38,Therapy,13580,65.62,8.78
+Canada,2007,Autoimmune,10.16,10.26,5.2,0-18,Female,979011,87.46,Medication,45015,68.34,2.15
+Mexico,2008,Metabolic,7.32,11.43,9.81,0-18,Male,540945,86.8,Surgery,5410,82.4,9.83
+UK,2011,Respiratory,15.32,3.9,5.99,0-18,Male,489434,50.35,Medication,30297,83.7,1.79
+Germany,2021,Parasitic,1.08,8.36,6.87,61+,Other,555142,85.3,Therapy,28326,89.12,0.18
+Canada,2007,Neurological,19.43,12.51,6.25,36-60,Male,170799,85.9,Surgery,23036,76.33,2.15
+Mexico,2022,Metabolic,16.53,7,7.05,36-60,Other,721347,57.58,Medication,49314,60,9.17
+India,2001,Neurological,18.4,14.58,0.96,36-60,Other,925118,92.31,Surgery,32446,64,7.22
+Brazil,2024,Parasitic,1.02,0.24,7.13,0-18,Other,628587,97.59,Therapy,19208,91.11,4.75
+Japan,2001,Parasitic,1.98,14.12,4.22,0-18,Male,720213,88.25,Vaccination,6000,83.72,6.51
+Saudi Arabia,2006,Metabolic,0.15,4.42,8.93,0-18,Male,655055,52.47,Medication,9233,52.06,8.72
+Japan,2022,Cardiovascular,17.17,6.87,3.9,19-35,Male,826557,65.22,Vaccination,46984,57.52,6.33
+South Korea,2019,Autoimmune,3.47,13.25,7.3,19-35,Other,146665,78.53,Therapy,15036,60.69,8.01
+Brazil,2015,Chronic,17.43,9.2,8.86,61+,Other,293863,92.93,Therapy,26978,96.1,5.29
+Turkey,2004,Metabolic,5.33,3.43,3.67,0-18,Male,134166,96.31,Surgery,2282,68.6,5.95
+Italy,2012,Cardiovascular,19.87,1.63,2.47,19-35,Other,739651,96.43,Medication,44551,84.45,9.57
+Indonesia,2008,Neurological,14.88,6.31,0.22,36-60,Other,819053,51.88,Medication,4747,55.32,0.14
+Australia,2003,Bacterial,1.96,9.44,4.63,19-35,Female,709402,74.43,Vaccination,43102,87.56,4.21
+Australia,2009,Metabolic,17.56,7.96,2.58,19-35,Male,162826,93.3,Surgery,37812,85.33,4.57
+Australia,2009,Viral,2.18,14.82,1.26,61+,Female,808173,74.3,Medication,49310,73.96,2.8
+Japan,2014,Viral,13.87,11.05,3.19,36-60,Other,161634,93.78,Therapy,6980,64.28,3.32
+Russia,2008,Chronic,5.63,0.76,4.02,0-18,Male,978978,51.89,Medication,1559,88.86,9.84
+Japan,2007,Autoimmune,11.68,12.42,2.71,61+,Other,532065,83.5,Vaccination,24588,76.64,3.46
+Mexico,2014,Metabolic,16.87,6.57,8.16,19-35,Other,59421,92.85,Medication,40432,59.24,7.19
+Australia,2015,Infectious,3.46,5.98,7.23,19-35,Other,958022,66.13,Medication,32105,64.68,2.99
+Canada,2006,Chronic,12.6,3.37,7.88,0-18,Female,840372,94.38,Medication,47664,76.01,5.67
+Brazil,2006,Parasitic,7.76,13.43,8.15,36-60,Male,715887,78.58,Medication,41164,54.34,5.72
+China,2009,Neurological,18.58,11.13,3.4,61+,Female,543861,86.07,Medication,14671,86.21,8.45
+Canada,2004,Chronic,8.5,13.84,4.81,0-18,Female,933501,80.65,Therapy,30755,86.67,3.69
+Italy,2020,Cardiovascular,17.95,2.64,6.13,19-35,Female,264557,98.62,Vaccination,8203,55.27,1.15
+Russia,2024,Metabolic,0.21,10.34,1.96,0-18,Other,263477,98.49,Surgery,14088,52.76,3.13
+Italy,2019,Parasitic,11.64,13.98,8.08,61+,Male,16688,89.16,Surgery,21699,58.4,0.98
+South Africa,2021,Neurological,16.89,2.28,8.52,19-35,Male,761302,50.41,Therapy,38765,54.03,6.97
+Germany,2010,Chronic,0.32,5.83,2.61,61+,Male,601459,80.56,Surgery,25446,55.96,6.06
+Australia,2023,Infectious,14.77,14.26,7.36,19-35,Male,457592,53.44,Surgery,34511,67.64,0.41
+Indonesia,2000,Autoimmune,6.46,14.2,6.62,0-18,Other,140944,90.68,Vaccination,28745,74.59,3.68
+Italy,2000,Parasitic,10.62,1.03,0.65,0-18,Male,289468,99.04,Vaccination,14646,75.55,1.36
+Mexico,2012,Respiratory,10.43,6.54,7.51,0-18,Other,660978,52.33,Medication,27828,95.3,8.89
+USA,2023,Infectious,10.51,6.11,4.55,61+,Female,670291,81.84,Vaccination,2143,75.99,3.24
+Saudi Arabia,2008,Genetic,16.31,13.15,9.56,61+,Other,116187,67.35,Medication,45146,82,6.48
+Indonesia,2010,Autoimmune,7.13,10.64,5.9,36-60,Male,986630,52.67,Vaccination,2529,57.08,4.77
+Japan,2001,Cardiovascular,4.81,13.17,8.72,61+,Other,987406,62.77,Medication,39478,75.3,3.19
+China,2000,Chronic,7.34,2.3,2.86,61+,Female,529219,61.66,Vaccination,15446,80.88,4.11
+Nigeria,2022,Neurological,7.91,9.36,7.1,36-60,Male,735231,95.92,Therapy,17082,59.1,4.05
+India,2021,Metabolic,13.53,2.3,1.07,19-35,Male,12497,76.57,Vaccination,17755,77.05,6.21
+Nigeria,2022,Genetic,3.1,6.03,1.57,19-35,Other,485287,63.98,Vaccination,8073,88.13,1.54
+China,2023,Metabolic,1.63,11.94,9.35,0-18,Female,820933,70.51,Surgery,43703,60.97,6.29
+France,2008,Respiratory,10.72,12.28,7.43,19-35,Male,346244,70.45,Therapy,1949,93.43,2.27
+Argentina,2009,Viral,8.94,2.95,5.93,0-18,Male,598804,82.16,Therapy,1965,83.56,2.13
+Russia,2023,Infectious,6.3,3.88,1.58,36-60,Male,986205,65.37,Therapy,23401,65.09,1
+Argentina,2007,Viral,4.54,2.9,3.63,36-60,Female,151650,72.93,Medication,36923,62.44,5.26
+Australia,2018,Respiratory,19.08,11.96,8.74,0-18,Male,581212,65.54,Surgery,26980,60.68,1.19
+Nigeria,2010,Genetic,9.17,7.35,0.9,36-60,Male,667904,77.26,Surgery,33733,65,7.29
+China,2017,Viral,3.52,5.49,2.83,36-60,Other,568755,86.56,Therapy,45985,96.65,9.87
+Germany,2013,Viral,19.02,0.23,7.96,0-18,Male,642247,93.19,Medication,41931,81.35,6.37
+Brazil,2016,Chronic,15.92,12.8,4.39,0-18,Other,532124,72.16,Medication,25310,66.56,0.34
+Argentina,2019,Chronic,6.78,2.86,1.98,0-18,Other,407762,57.43,Medication,16508,64.51,8.08
+UK,2003,Bacterial,4.9,1.15,2.93,0-18,Female,318796,61.85,Surgery,23629,79.53,5.31
+Italy,2010,Cardiovascular,17.22,8.78,9.1,0-18,Female,542026,52.7,Surgery,4459,81.48,5.25
+China,2023,Cardiovascular,6.98,6.04,4.71,0-18,Other,624879,82.13,Vaccination,31902,62.5,6.31
+Russia,2018,Respiratory,0.21,3.51,5.3,36-60,Female,923561,53.62,Therapy,19439,77.38,6.78
+Nigeria,2022,Autoimmune,16.84,14.01,9.32,19-35,Male,355034,98.87,Therapy,40931,87.21,8.64
+Saudi Arabia,2011,Chronic,9.42,14.4,5.38,61+,Female,362984,97.59,Therapy,39783,98.41,8.25
+Argentina,2013,Parasitic,18.99,11.28,1.3,19-35,Female,211440,52.36,Surgery,14725,81.76,5.57
+Russia,2024,Autoimmune,5.14,2.44,6.54,61+,Other,847872,87.65,Vaccination,40348,87,9.8
+Nigeria,2003,Respiratory,15.19,8.92,4.49,19-35,Other,85854,86.28,Vaccination,30463,54.34,1.34
+Turkey,2002,Chronic,12.39,11.03,6.79,36-60,Other,692357,70.56,Vaccination,2043,57.79,3.43
+Turkey,2022,Parasitic,7.82,0.38,4.99,61+,Other,464661,98.18,Surgery,25003,50.65,3.15
+Indonesia,2015,Chronic,16.46,10.26,4.35,61+,Other,356280,62.24,Medication,14647,54.49,9.26
+China,2013,Autoimmune,14.81,14.94,6.28,0-18,Male,610333,70.82,Vaccination,2766,54.34,3.15
+France,2023,Infectious,14.06,11.26,1.97,36-60,Male,108764,94.47,Medication,15698,77.86,0.11
+Japan,2011,Genetic,0.67,14.63,2.55,36-60,Male,133769,82.3,Surgery,35639,96.41,5.83
+Argentina,2002,Autoimmune,19.28,6.36,2.43,36-60,Female,993635,89.01,Medication,37327,61.31,9.62
+South Korea,2021,Infectious,19.93,2.45,7.88,36-60,Other,753333,88.73,Surgery,44533,56.1,5.33
+Mexico,2012,Cardiovascular,0.35,4.84,1.48,61+,Female,815033,99.05,Vaccination,10946,71.51,0.84
+Turkey,2013,Autoimmune,1.09,10.39,8.03,19-35,Female,805859,52.41,Vaccination,35711,89.4,3.1
+South Korea,2019,Parasitic,18.07,2.72,6.92,61+,Female,75697,84.79,Surgery,40484,75.33,9.96
+UK,2014,Respiratory,10.09,10.16,3.89,19-35,Female,950038,76.79,Vaccination,46657,70.64,1.93
+Canada,2012,Bacterial,13,6.86,0.42,36-60,Male,849445,71.39,Vaccination,46534,69.96,3.41
+Argentina,2009,Metabolic,6.43,14.05,4.35,36-60,Male,87285,85.52,Vaccination,32483,56.85,1.6
+Saudi Arabia,2013,Autoimmune,3.76,9.94,7.64,36-60,Other,66516,69.04,Vaccination,32086,88.82,8.59
+Nigeria,2011,Metabolic,4.77,9.76,4.34,61+,Male,615899,68.29,Surgery,15797,73.9,5.41
+Saudi Arabia,2015,Neurological,14.99,8.18,4.48,0-18,Male,109045,85.74,Medication,41696,80.93,1.42
+Brazil,2019,Autoimmune,1.71,2.55,8.21,36-60,Other,556011,99.56,Therapy,44782,79.39,1.51
+Turkey,2000,Respiratory,7.3,6.43,9.1,0-18,Female,240456,67.46,Medication,2034,52.45,8.39
+Argentina,2013,Viral,9.67,6.03,3.6,36-60,Male,946379,73.01,Therapy,42808,66.46,7.69
+Nigeria,2022,Chronic,10.7,13.52,3.81,36-60,Male,69807,53.61,Vaccination,35859,98.62,6.44
+Italy,2015,Autoimmune,8.77,13.51,5.49,0-18,Female,800148,73.45,Medication,18050,96.96,8.53
+South Africa,2004,Infectious,12.02,4.28,3.14,19-35,Male,160347,63.27,Medication,45908,95.67,5.32
+Japan,2010,Parasitic,0.79,10.18,1,36-60,Male,807440,62.47,Vaccination,26771,73.06,1.55
+South Korea,2000,Respiratory,13.58,13.78,9.74,61+,Other,170019,55.78,Surgery,45089,62.79,1.15
+Indonesia,2016,Chronic,19.56,12.95,4.41,19-35,Female,202881,75.25,Surgery,41751,66.66,4.47
+Brazil,2022,Neurological,19.51,4.68,6.78,0-18,Male,277386,95.14,Medication,9921,69.46,7.88
+Canada,2009,Parasitic,2.55,6.08,7.14,19-35,Other,6835,61.58,Medication,44808,51.23,9.97
+Japan,2016,Metabolic,0.35,5.73,6.89,0-18,Other,757237,90.81,Vaccination,4338,56.95,1.11
+South Korea,2002,Bacterial,7.84,5.73,7.7,19-35,Female,530707,84.97,Vaccination,13363,86.71,4.07
+Russia,2009,Bacterial,6.84,8.19,4.73,36-60,Female,546672,82.22,Therapy,25220,57.63,5.74
+Nigeria,2006,Viral,2.49,2.65,0.64,19-35,Female,664120,58.71,Surgery,3754,72,8.03
+Japan,2018,Bacterial,7.68,14.19,4.9,0-18,Other,216202,58.11,Vaccination,14783,66.2,1.77
+Germany,2024,Chronic,11.57,4.37,3.56,0-18,Other,628890,81.68,Vaccination,40335,56.25,3.94
+Russia,2004,Neurological,14.37,11.13,4.69,19-35,Other,998956,65.47,Medication,7421,79.42,2.08
+Argentina,2023,Metabolic,15.4,5.7,3.92,36-60,Female,102457,80.43,Vaccination,33421,71.49,7.06
+Turkey,2022,Bacterial,8.03,14.96,7.94,0-18,Other,964998,60.11,Vaccination,7988,72.57,8.91
+UK,2016,Bacterial,12.05,7.3,2.3,36-60,Male,186073,84.87,Vaccination,21499,76.48,8.58
+Brazil,2020,Parasitic,18.96,4.01,2.24,19-35,Male,371662,53.04,Surgery,22872,77.2,4.11
+India,2011,Chronic,3.02,9.29,9.63,19-35,Female,350565,58.18,Medication,16218,93.94,8.71
+Saudi Arabia,2023,Chronic,5.29,6.05,2.15,61+,Male,445987,77.18,Surgery,15481,98.22,7.33
+Germany,2010,Genetic,13.34,0.63,2.04,0-18,Female,840202,89.2,Vaccination,20644,69.8,4.56
+China,2006,Metabolic,11.86,13.17,9.65,36-60,Female,996846,51.81,Vaccination,37211,97.44,8.66
+Turkey,2004,Genetic,10.78,10.07,3.49,19-35,Male,117012,73.04,Medication,23066,94.31,6.7
+Argentina,2010,Autoimmune,19.66,10.35,1.26,61+,Other,265129,96.06,Therapy,4194,80.04,4.43
+Canada,2007,Bacterial,15.92,5.09,1.37,0-18,Female,680804,75.42,Vaccination,16801,86.18,6.68
+China,2016,Autoimmune,3.54,8.01,2.54,0-18,Female,57972,51.74,Vaccination,29029,98.24,4.33
+South Africa,2007,Parasitic,5.93,14.35,4.63,19-35,Male,209096,54.72,Surgery,7188,89.57,2.95
+Japan,2003,Neurological,17.76,4.28,3.01,19-35,Female,155557,76.04,Vaccination,26519,97.47,6.6
+Mexico,2022,Bacterial,12.39,13.49,7.72,61+,Female,314577,63.32,Surgery,9664,80.68,5.92
+China,2013,Respiratory,10.8,6.93,4.05,0-18,Female,905199,86.08,Medication,14228,72.67,3.5
+Argentina,2009,Bacterial,15.12,10.72,5.99,19-35,Other,85551,63.16,Medication,4496,93.25,9.17
+Turkey,2002,Viral,1.58,4.33,3.44,36-60,Male,799154,61.48,Medication,24263,56.3,7.84
+Russia,2022,Chronic,6.9,0.92,7.05,36-60,Male,721846,65.48,Vaccination,25241,92.24,9.31
+France,2003,Parasitic,5.73,11.19,5.86,36-60,Other,968168,51.57,Medication,25584,63.76,8.36
+Mexico,2017,Neurological,12.8,0.96,8.07,36-60,Female,822326,94.02,Vaccination,35440,86.1,1.79
+Indonesia,2021,Respiratory,10.44,7.95,6.82,0-18,Female,285432,51.1,Surgery,19662,71.94,6.02
+France,2017,Respiratory,17.25,9.27,9.08,0-18,Male,469085,87.52,Surgery,37550,60.45,6.35
+China,2006,Respiratory,9.98,9.82,7.35,36-60,Male,274807,92.86,Surgery,9439,98.7,8.21
+South Africa,2003,Bacterial,8.8,9.41,6.35,36-60,Female,273923,94.43,Vaccination,24079,56.81,4.41
+Saudi Arabia,2012,Chronic,10.31,10.69,8.31,0-18,Female,606557,83.79,Surgery,44372,79.3,1.45
+Argentina,2009,Metabolic,15,5.97,3.27,61+,Male,540890,92.09,Therapy,13764,86.22,8.27
+India,2005,Cardiovascular,19.09,3.42,3.19,0-18,Other,373022,69.81,Therapy,11365,96.1,3.16
+Brazil,2008,Autoimmune,15.79,12.96,0.97,61+,Male,736559,79.2,Medication,28459,89.24,1.87
+Brazil,2007,Genetic,12.54,10.02,7.12,19-35,Female,914033,68.38,Vaccination,49327,92.2,1.92
+Japan,2005,Parasitic,1.29,10.07,7.14,0-18,Male,862148,55,Medication,37905,92.79,9.93
+Japan,2008,Chronic,8.2,8.64,1.36,36-60,Male,318782,89.16,Therapy,6463,95.29,5.35
+South Africa,2012,Autoimmune,8.02,5.9,8.11,61+,Other,850203,92.27,Medication,33238,67.03,0.97
+Mexico,2001,Chronic,13.35,11.26,3.42,19-35,Male,764642,80.88,Vaccination,14751,65.89,4.45
+Turkey,2022,Autoimmune,16.83,6.54,0.71,0-18,Other,456036,56.29,Therapy,9638,55.43,0.94
